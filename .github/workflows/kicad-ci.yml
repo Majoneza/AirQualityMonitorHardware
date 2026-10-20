@@ -1,0 +1,83 @@
+name: KiCad CI
+
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - 'v*'
+  pull_request:
+
+jobs:
+  check-and-export:
+    runs-on: ubuntu-latest
+    container:
+      image: kicad/kicad:10.0-full
+      options: --user root
+    env:
+      PROJECT: AirQualityMonitor
+      PROJECT_SCH: AirQualityMonitor.kicad_sch
+      PROJECT_PCB: AirQualityMonitor.kicad_pcb
+
+    steps:
+      - name: Install Git and Git LFS
+        run: |
+          apt-get update
+          apt-get install -y git git-lfs
+          git lfs install
+
+      - uses: actions/checkout@v7
+        with:
+          lfs: true
+
+      - name: Electrical rule check
+        run: kicad-cli sch erc --severity-all -o erc.rpt "$PROJECT_SCH"
+
+      - name: Design rule check
+        run: kicad-cli pcb drc --severity-all --schematic-parity -o drc.rpt "$PROJECT_PCB"
+
+      - name: Upload ERC and DRC results
+        uses: actions/upload-artifact@v7
+        with:
+          name: checks
+          path: |
+            erc.rpt
+            drc.rpt
+
+      - name: Export fabrication and documentation files
+        run: |
+          mkdir -p out/gerbers
+          kicad-cli pcb export gerbers --board-plot-params -o "out/gerbers/" "$PROJECT_PCB"
+          kicad-cli pcb export drill -o "out/gerbers/" "$PROJECT_PCB"
+          kicad-cli pcb export pos --format csv --units mm -o "out/$PROJECT-pos.csv" "$PROJECT_PCB"
+          kicad-cli pcb export step -o "out/$PROJECT.step" "$PROJECT_PCB"
+          kicad-cli sch export bom -o "out/$PROJECT-bom.csv" "$PROJECT_SCH"
+          kicad-cli sch export pdf -o "out/$PROJECT-schematic.pdf" "$PROJECT_SCH"
+
+      - name: Upload outputs
+        uses: actions/upload-artifact@v7
+        with:
+          name: fabrication
+          path: out/
+
+  release:
+    if: github.ref_type == 'tag'
+    needs: check-and-export
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/download-artifact@v8
+        with:
+          name: fabrication
+          path: out
+
+      - name: Zip gerbers
+        run: cd out/gerbers && zip -r "../gerbers.zip"
+
+      - name: Create Github release
+        uses: softprops/action-gh-release@v3
+        with:
+          files: |
+            out/*.zip
+            out/*.csv
+            out/*.pdf
+            out/*.step
