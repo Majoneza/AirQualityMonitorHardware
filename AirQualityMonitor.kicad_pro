@@ -851,28 +851,8 @@
     "top_level_sheets": [
       {
         "filename": "AirQualityMonitor.kicad_sch",
-        "name": "Power",
+        "name": "Root",
         "uuid": "3234c140-ef07-4ec7-a999-10b0abc65e04"
-      },
-      {
-        "filename": "host_mcu.kicad_sch",
-        "name": "Host MCU",
-        "uuid": "6fb3f1a7-021f-43f1-8888-771521aa6af0"
-      },
-      {
-        "filename": "radio_mcu.kicad_sch",
-        "name": "Radio MCU",
-        "uuid": "c82d426e-54a9-41d3-8963-7b09e30704a0"
-      },
-      {
-        "filename": "sensors.kicad_sch",
-        "name": "Peripherals",
-        "uuid": "d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
-      },
-      {
-        "filename": "display.kicad_sch",
-        "name": "Display",
-        "uuid": "530768d1-b5f4-44e1-bf4d-cc489780549f"
       }
     ],
     "used_designators": "#PWR1-164,ANT1,C1-80,D1-5,F1,FID1-3,FL1,H1-4,J1-12,L1-7,LED1,LS1,Q1-4,R1-51,S1,TP1-16,U1-16,Y1-3",
@@ -881,22 +861,26 @@
   "sheets": [
     [
       "3234c140-ef07-4ec7-a999-10b0abc65e04",
+      "Root"
+    ],
+    [
+      "f5e0b514-b029-4171-88d5-56095ae47262",
       "Power"
     ],
     [
-      "6fb3f1a7-021f-43f1-8888-771521aa6af0",
+      "92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1",
       "Host MCU"
     ],
     [
-      "c82d426e-54a9-41d3-8963-7b09e30704a0",
+      "2673977d-9078-469a-bce8-6510c7ea2ef5",
       "Radio MCU"
     ],
     [
-      "d1d29ee4-51fd-401d-a2e4-2361ab4b76a9",
+      "87c6ab7c-fdbd-4a0e-b5db-80e44225deb0",
       "Peripherals"
     ],
     [
-      "530768d1-b5f4-44e1-bf4d-cc489780549f",
+      "84823ba4-ff11-488b-a213-09070bb518d9",
       "Display"
     ]
   ],

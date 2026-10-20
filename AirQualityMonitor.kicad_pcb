@@ -302,9 +302,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/5a90e0e3-5e4c-4e22-a210-4661293e0673")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/5a90e0e3-5e4c-4e22-a210-4661293e0673")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -522,9 +522,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/b84ecf66-19f7-4313-89f1-9989bfd0c4f9")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/b84ecf66-19f7-4313-89f1-9989bfd0c4f9")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -809,9 +809,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/5f333c05-f867-465c-ad3a-9615112cb439")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/5f333c05-f867-465c-ad3a-9615112cb439")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1081,9 +1081,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/b4c71fac-96fc-41c0-aff1-5a274d678f02")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/b4c71fac-96fc-41c0-aff1-5a274d678f02")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1353,9 +1353,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/3d98b30c-6894-4562-bd06-c7e9a5127d65")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/3d98b30c-6894-4562-bd06-c7e9a5127d65")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1624,9 +1624,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8aab50d0-4f74-4468-8b63-7d835185ad7e")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/8aab50d0-4f74-4468-8b63-7d835185ad7e")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -1887,9 +1887,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/6bf1f2cc-25af-4b86-b0d7-66787c07dfc4")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/6bf1f2cc-25af-4b86-b0d7-66787c07dfc4")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2159,9 +2159,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/9d153141-f205-4afa-9997-25a56ee667ea")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/9d153141-f205-4afa-9997-25a56ee667ea")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2444,9 +2444,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/91262a39-7460-44a8-898b-6fabebcb3052")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/91262a39-7460-44a8-898b-6fabebcb3052")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2729,9 +2729,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/ca8a814f-6767-4247-ba33-d4f86a4d7cd2")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/ca8a814f-6767-4247-ba33-d4f86a4d7cd2")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -2941,9 +2941,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/4abd7368-bb49-46b2-b057-7dfdaeaa326f")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/4abd7368-bb49-46b2-b057-7dfdaeaa326f")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3175,9 +3175,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/92ff7a7d-62f3-4dc8-a28f-244ee4709d62")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/92ff7a7d-62f3-4dc8-a28f-244ee4709d62")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3435,9 +3435,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/737807f4-f31f-4d44-bf54-172e2b0dc8b1")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/737807f4-f31f-4d44-bf54-172e2b0dc8b1")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -3788,9 +3788,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/ccc723ba-64f7-4104-8fc4-c55ae9df56fb")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/ccc723ba-64f7-4104-8fc4-c55ae9df56fb")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4075,9 +4075,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d052cd95-96ea-459b-9cb7-0771c642413a")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/d052cd95-96ea-459b-9cb7-0771c642413a")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4347,9 +4347,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/81ef2d94-df4a-49b4-949d-608f6edfab04")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/81ef2d94-df4a-49b4-949d-608f6edfab04")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4632,9 +4632,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/9c6f2461-da79-4cff-9c56-31901d5cbd10")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/9c6f2461-da79-4cff-9c56-31901d5cbd10")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -4917,9 +4917,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/3ca5ca28-509a-4629-a18e-69c59d7be669")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/3ca5ca28-509a-4629-a18e-69c59d7be669")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5218,9 +5218,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/668ee467-a276-4965-9221-095e4e1cfef7")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/668ee467-a276-4965-9221-095e4e1cfef7")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -5491,9 +5491,9 @@
 			)
 		)
 		(property ki_fp_filters "JEITA?SOIC*3.9x4.9mm*P1.27mm*")
-		(path "/16657695-f8c4-4d55-b0e0-62b99cf833f9")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/16657695-f8c4-4d55-b0e0-62b99cf833f9")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6066,9 +6066,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/46efb13c-0da7-459a-ab9d-e5aa9fd49300")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/46efb13c-0da7-459a-ab9d-e5aa9fd49300")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6351,9 +6351,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/505abd42-de2c-4e7d-8d70-00ba7ebd23f8")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/505abd42-de2c-4e7d-8d70-00ba7ebd23f8")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6652,9 +6652,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/3fc9c2b8-d0b9-4d5b-bf48-2010b473eeaa")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/3fc9c2b8-d0b9-4d5b-bf48-2010b473eeaa")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -6941,9 +6941,9 @@
 				)
 			)
 		)
-		(path "/d3cec7a0-8388-4be1-a22d-4b7b802d4f5a")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/d3cec7a0-8388-4be1-a22d-4b7b802d4f5a")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7375,9 +7375,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/816f3ca2-7265-48c0-9e80-318674fe00aa")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/816f3ca2-7265-48c0-9e80-318674fe00aa")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -7647,9 +7647,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/40f3a555-6d76-464d-b40b-bcc5f522615d")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/40f3a555-6d76-464d-b40b-bcc5f522615d")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8264,9 +8264,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/06d88c2e-589f-45a0-b10f-3ffcace75b22")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/06d88c2e-589f-45a0-b10f-3ffcace75b22")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8549,9 +8549,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a508b2f5-d98c-49fa-9e94-15d329128d22")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/a508b2f5-d98c-49fa-9e94-15d329128d22")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -8821,9 +8821,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/85f11f41-e82b-49db-8075-b3451ff86633")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/85f11f41-e82b-49db-8075-b3451ff86633")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9106,9 +9106,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/6f760b0f-5993-4e32-911c-e05e143a148a")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/6f760b0f-5993-4e32-911c-e05e143a148a")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9386,9 +9386,9 @@
 			)
 		)
 		(property ki_fp_filters "*PG?TSNP*0.7x1.1mm*P0.4mm*")
-		(path "/50d878cd-2f19-4e22-bd56-769b5e71aeef")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/50d878cd-2f19-4e22-bd56-769b5e71aeef")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -9936,9 +9936,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d0fa7638-4454-48c7-9c06-2ed5b6866bdd")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/d0fa7638-4454-48c7-9c06-2ed5b6866bdd")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10221,9 +10221,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/201d24b4-4ad1-489e-95b4-cac4d51a9fa5")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/201d24b4-4ad1-489e-95b4-cac4d51a9fa5")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10492,9 +10492,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/eba46b60-018e-48dc-a3d1-61b28507be09")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/eba46b60-018e-48dc-a3d1-61b28507be09")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10704,9 +10704,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/ee0ac009-30db-427a-a553-f0b861f92e58")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/ee0ac009-30db-427a-a553-f0b861f92e58")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -10938,9 +10938,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/e69e8e13-35f3-4948-9e01-fc45b344a2de")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/e69e8e13-35f3-4948-9e01-fc45b344a2de")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11223,9 +11223,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/e9fa60e1-788a-4453-911b-2b5a3ec201a0")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/e9fa60e1-788a-4453-911b-2b5a3ec201a0")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11508,9 +11508,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a2885e27-9ecc-4878-bc52-09c25a26dda1")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/a2885e27-9ecc-4878-bc52-09c25a26dda1")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -11809,9 +11809,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/36ca3677-ed08-487f-bdb5-e30998fba3f4")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/36ca3677-ed08-487f-bdb5-e30998fba3f4")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12110,9 +12110,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/22e062a3-1579-43a0-9f53-02077369c89f")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/22e062a3-1579-43a0-9f53-02077369c89f")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12397,9 +12397,9 @@
 			)
 		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
-		(path "/772fb488-2757-4aca-989a-b382b0fe7f28")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/772fb488-2757-4aca-989a-b382b0fe7f28")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -12692,21 +12692,21 @@
 			)
 		)
 		(property ki_fp_filters "Nordic*AQFN*1EP*7x7mm*P0.4mm*")
-		(path "/a63ff9cd-6b46-4cc3-94f9-aaa4478b465d")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/a63ff9cd-6b46-4cc3-94f9-aaa4478b465d")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
 				(pins "W31" "AA31" "AC31" "C31" "B30" "A21" "A27" "G31" "B10" "A15" "L31"
-					"A5" "B6" "A23" "A13" "A25" "B12" "B26" "D2" "F2" "G1" "H2" "J31" "K2"
-					"T2" "AG31" "L1" "AL3" "AL7" "AL11" "AL17" "U1" "B8" "N31" "B28" "C1"
-					"AL25" "E31" "AJ31" "A19" "AG1" "AC1" "E1" "EP" "J1" "N1" "R1" "W1"
-					"AA1" "V2" "Y2" "AB2" "AD2" "AH2" "AJ1" "AK2" "AK4" "AK6" "AL5" "AK8"
-					"AK10" "AL9" "AK12" "AK14" "AL13" "AK16" "AL15" "AK18" "AK20" "AL27"
-					"AK28" "AL29" "AK30" "AE31" "U31" "B24" "B22" "M2" "P2" "AE1" "AF2"
-					"AL19" "AK22" "AL21" "AK24" "AL23" "AK26" "R31" "B20" "B18" "A17" "B16"
-					"B14" "B4" "B2"
+					"A5" "B6" "A23" "A13" "D2" "F2" "K2" "T2" "AG31" "AL17" "AL7" "C1" "AL3"
+					"E31" "AL11" "B28" "AC1" "L1" "A19" "B8" "AJ31" "N31" "AL25" "AG1" "U1"
+					"E1" "EP" "B26" "B12" "A25" "G1" "H2" "J31" "J1" "N1" "R1" "W1" "AA1"
+					"V2" "Y2" "AB2" "AD2" "AH2" "AJ1" "AK2" "AK4" "AK6" "AL5" "AK8" "AK10"
+					"AL9" "AK12" "AK14" "AL13" "AK16" "AL15" "AK18" "AK20" "AL27" "AK28"
+					"AL29" "AK30" "AE31" "U31" "B24" "B22" "M2" "P2" "AE1" "AF2" "AL19"
+					"AK22" "AL21" "AK24" "AL23" "AK26" "R31" "B20" "B18" "A17" "B16" "B14"
+					"B4" "B2"
 				)
 			)
 		)
@@ -15168,9 +15168,9 @@
 				)
 			)
 		)
-		(path "/16c706a0-51f7-4890-9849-7aa73a47338e")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/16c706a0-51f7-4890-9849-7aa73a47338e")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15593,9 +15593,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/bf83ffa8-bf91-44f3-a769-578bd8452267")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/bf83ffa8-bf91-44f3-a769-578bd8452267")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -15880,9 +15880,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/71993041-35da-4522-ab03-567c6b722115")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/71993041-35da-4522-ab03-567c6b722115")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16100,9 +16100,9 @@
 			)
 		)
 		(property ki_fp_filters "Fiducial*")
-		(path "/06c1b80c-1f93-48fa-8430-3fd50a353dec")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/06c1b80c-1f93-48fa-8430-3fd50a353dec")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16321,9 +16321,9 @@
 				)
 			)
 		)
-		(path "/14a71aa6-03a5-48f8-93a7-580ef77e0e52")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/14a71aa6-03a5-48f8-93a7-580ef77e0e52")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16764,9 +16764,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/af4c061b-ec28-4d3d-8d36-ae12373b51f5")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/af4c061b-ec28-4d3d-8d36-ae12373b51f5")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -16992,9 +16992,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/0dbdf4b5-0d05-44d3-9202-4629c2bfc911")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/0dbdf4b5-0d05-44d3-9202-4629c2bfc911")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17226,9 +17226,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/11f1caa5-771c-4f7d-95b6-bd7f5e23b144")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/11f1caa5-771c-4f7d-95b6-bd7f5e23b144")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17511,9 +17511,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/115a1120-1ffc-4079-b327-141ea6fbb00f")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/115a1120-1ffc-4079-b327-141ea6fbb00f")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -17783,9 +17783,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/0e2963fa-eed9-47f8-9e01-a41737a0873a")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0e2963fa-eed9-47f8-9e01-a41737a0873a")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18433,9 +18433,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/5906bd61-d512-44c3-b754-c33c1fbee2b1")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/5906bd61-d512-44c3-b754-c33c1fbee2b1")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18705,9 +18705,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/0ea29f77-959b-47c5-82b2-3cb8cc1771ea")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0ea29f77-959b-47c5-82b2-3cb8cc1771ea")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -18990,9 +18990,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/0bff60b2-9f0b-4067-b1fe-e3b757e9475d")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0bff60b2-9f0b-4067-b1fe-e3b757e9475d")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19262,9 +19262,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/20257be8-8804-4c1c-820e-674b61d7958b")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/20257be8-8804-4c1c-820e-674b61d7958b")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -19900,9 +19900,9 @@
 				)
 			)
 		)
-		(path "/a3554775-b436-4623-accf-d8a74239a64b")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/a3554775-b436-4623-accf-d8a74239a64b")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -20785,9 +20785,9 @@
 				)
 			)
 		)
-		(path "/24cf6cac-1417-4b9b-8bae-0b398dc20069")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/24cf6cac-1417-4b9b-8bae-0b398dc20069")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21135,9 +21135,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c6b9e3f5-bbd7-4c32-a2d3-b1d4888b33bb")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/c6b9e3f5-bbd7-4c32-a2d3-b1d4888b33bb")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -21408,9 +21408,9 @@
 				)
 			)
 		)
-		(path "/437e832a-233d-4d90-b70b-ca276f65e544")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/437e832a-233d-4d90-b70b-ca276f65e544")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22031,9 +22031,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/21adaf60-a1a7-4828-a973-5fb80f4f0b52")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/21adaf60-a1a7-4828-a973-5fb80f4f0b52")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22316,9 +22316,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/b3e6e12a-d81f-4ab2-ad8f-697df13d8cbf")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/b3e6e12a-d81f-4ab2-ad8f-697df13d8cbf")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22617,9 +22617,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/f0da1b67-608f-431e-b295-41eb56eac038")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/f0da1b67-608f-431e-b295-41eb56eac038")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -22902,9 +22902,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/b8ee00d2-88ca-486e-84a1-a56d3fec9004")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/b8ee00d2-88ca-486e-84a1-a56d3fec9004")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23161,9 +23161,9 @@
 				)
 			)
 		)
-		(path "/97e1cfdc-50a4-483f-bef2-f4fe2029a1de")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/97e1cfdc-50a4-483f-bef2-f4fe2029a1de")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23533,9 +23533,9 @@
 			)
 		)
 		(property ki_fp_filters "*Fuse*")
-		(path "/59670ec2-3df4-44ca-b95d-3168ba76bbcc")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/59670ec2-3df4-44ca-b95d-3168ba76bbcc")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -23805,9 +23805,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/14cd9783-a590-4360-8acb-a6203de0e484")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/14cd9783-a590-4360-8acb-a6203de0e484")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24043,9 +24043,9 @@
 			)
 		)
 		(property ki_fp_filters "Fiducial*")
-		(path "/b1ddf9bf-e51c-49ae-a5f7-4af04d557245")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/b1ddf9bf-e51c-49ae-a5f7-4af04d557245")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24263,9 +24263,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/2a690e8f-f8b1-46e9-b315-8018011ed047")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/2a690e8f-f8b1-46e9-b315-8018011ed047")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24548,9 +24548,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/4a14b800-2037-4418-a4a2-56c8f1a5486e")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/4a14b800-2037-4418-a4a2-56c8f1a5486e")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -24850,9 +24850,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/ebc6caf2-37c2-467d-ae41-f524748d5943")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/ebc6caf2-37c2-467d-ae41-f524748d5943")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25139,9 +25139,9 @@
 			)
 		)
 		(property ki_fp_filters "SOT?323*")
-		(path "/47467b6f-f6cb-4bc1-aa51-8a9da36d77b8")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/47467b6f-f6cb-4bc1-aa51-8a9da36d77b8")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25639,9 +25639,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/9ddf450d-868b-44b1-a124-feaa8c067619")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/9ddf450d-868b-44b1-a124-feaa8c067619")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -25927,9 +25927,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/435e82a5-06d9-459c-a640-351d6aadf09f")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/435e82a5-06d9-459c-a640-351d6aadf09f")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26199,9 +26199,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/a920ebda-8ee2-4d30-afea-c4d1056eb910")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/a920ebda-8ee2-4d30-afea-c4d1056eb910")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -26796,9 +26796,9 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/7bb4589e-4015-450e-a9b2-411ca9f6f6ac")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/7bb4589e-4015-450e-a9b2-411ca9f6f6ac")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27329,9 +27329,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/194d6f48-bc11-4672-b81c-707ad05f3e0a")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/194d6f48-bc11-4672-b81c-707ad05f3e0a")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27614,9 +27614,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a78d6570-99f2-489a-bc1c-b2ce162c724c")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/a78d6570-99f2-489a-bc1c-b2ce162c724c")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -27899,9 +27899,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/cd842e98-5123-4686-8754-bd41ce138f70")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/cd842e98-5123-4686-8754-bd41ce138f70")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28171,9 +28171,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/b66ab69f-c53b-4750-ab13-8155c3d082b4")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/b66ab69f-c53b-4750-ab13-8155c3d082b4")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28443,9 +28443,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/fd322ed1-b921-457a-acd8-5efb8e80f415")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/fd322ed1-b921-457a-acd8-5efb8e80f415")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28732,9 +28732,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8ce9b7ef-0ac4-4f9d-9621-1595c44c9640")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/8ce9b7ef-0ac4-4f9d-9621-1595c44c9640")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -28977,9 +28977,9 @@
 			)
 		)
 		(property ki_fp_filters "Crystal*")
-		(path "/034e0725-a3a2-4137-99e7-16d6fc56dc37")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/034e0725-a3a2-4137-99e7-16d6fc56dc37")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29307,9 +29307,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/29552ab6-f2ca-46cb-8d5a-a9f9593726ab")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/29552ab6-f2ca-46cb-8d5a-a9f9593726ab")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29592,9 +29592,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/6f2c72de-63aa-49c6-a64b-1c109423948f")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/6f2c72de-63aa-49c6-a64b-1c109423948f")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -29811,9 +29811,9 @@
 			)
 		)
 		(property ki_fp_filters "MountingHole*")
-		(path "/f0c190ea-2632-4c05-a8f8-8193c7d7145d")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/f0c190ea-2632-4c05-a8f8-8193c7d7145d")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30019,9 +30019,9 @@
 				)
 			)
 		)
-		(path "/80c90062-187d-4d5b-afa0-b8833650b86b")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/80c90062-187d-4d5b-afa0-b8833650b86b")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30473,9 +30473,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/6311a804-2f7a-4611-ae42-a6eb5ea60b06")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/6311a804-2f7a-4611-ae42-a6eb5ea60b06")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30685,9 +30685,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/394915d3-bd26-407a-b437-4cf19e8d8ba6")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/394915d3-bd26-407a-b437-4cf19e8d8ba6")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -30906,9 +30906,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8701621d-ef90-4ac9-a05d-7b56498d836c")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/8701621d-ef90-4ac9-a05d-7b56498d836c")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31177,9 +31177,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8b2fbc3a-836a-48b3-b96f-4e4c4cf5d4a4")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/8b2fbc3a-836a-48b3-b96f-4e4c4cf5d4a4")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31461,9 +31461,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/6e6b798d-d3c6-4944-bf4e-16a574c6a24d")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/6e6b798d-d3c6-4944-bf4e-16a574c6a24d")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31680,9 +31680,9 @@
 			)
 		)
 		(property ki_fp_filters "MountingHole*")
-		(path "/a84aaa0e-1213-4e72-91f1-146adb734001")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/a84aaa0e-1213-4e72-91f1-146adb734001")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31835,9 +31835,9 @@
 			)
 		)
 		(property ki_fp_filters "MountingHole*")
-		(path "/53509b7f-cdb1-4afc-b2f2-7a23b1971bbb")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/53509b7f-cdb1-4afc-b2f2-7a23b1971bbb")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -31991,9 +31991,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/06cb01a1-1f5d-4e39-b614-81bf8501c20f")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/06cb01a1-1f5d-4e39-b614-81bf8501c20f")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32292,9 +32292,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/33d5372d-14ae-42d5-a848-69c39cb98444")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/33d5372d-14ae-42d5-a848-69c39cb98444")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32564,9 +32564,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/957602d2-5ffa-42b6-af3e-6f5f9fadcca7")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/957602d2-5ffa-42b6-af3e-6f5f9fadcca7")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -32836,9 +32836,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/fcfc39c2-5905-4c94-a983-1314e86de28b")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/fcfc39c2-5905-4c94-a983-1314e86de28b")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33108,9 +33108,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/70a7727d-062b-4a16-a3e5-b56bc043c109")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/70a7727d-062b-4a16-a3e5-b56bc043c109")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -33372,9 +33372,9 @@
 			)
 		)
 		(property ki_fp_filters "USB*C*Receptacle*")
-		(path "/e0acc54c-be6b-4970-9dd5-4fbd3d088548")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/e0acc54c-be6b-4970-9dd5-4fbd3d088548")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34168,9 +34168,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/40f61aab-ba3e-4838-a827-83510d4cd942")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/40f61aab-ba3e-4838-a827-83510d4cd942")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34441,9 +34441,9 @@
 				)
 			)
 		)
-		(path "/c653ac15-3bf7-4111-babe-fece8a765967")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/c653ac15-3bf7-4111-babe-fece8a765967")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -34794,9 +34794,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/c259005f-c26a-48e2-9afa-4f93dd9c0fe1")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/c259005f-c26a-48e2-9afa-4f93dd9c0fe1")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35081,9 +35081,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8dcf728e-8764-442b-9613-e9a77fcd1ccc")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/8dcf728e-8764-442b-9613-e9a77fcd1ccc")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35366,9 +35366,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/ab1393e8-82f4-4d78-b0db-83104c70ff30")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/ab1393e8-82f4-4d78-b0db-83104c70ff30")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35667,9 +35667,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/04d42b6e-c9f9-401b-bc49-0c263a9657d9")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/04d42b6e-c9f9-401b-bc49-0c263a9657d9")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -35952,9 +35952,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/ace97e8b-fe71-44cb-b9b7-ebb62bac2261")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/ace97e8b-fe71-44cb-b9b7-ebb62bac2261")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36225,9 +36225,9 @@
 				)
 			)
 		)
-		(path "/2cd04ccd-d476-47ff-83d7-a4d57f8f74c8")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/2cd04ccd-d476-47ff-83d7-a4d57f8f74c8")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36649,9 +36649,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/0f7e1168-9a4d-4d64-b46b-dcfede3cb42b")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0f7e1168-9a4d-4d64-b46b-dcfede3cb42b")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -36934,9 +36934,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/9548f490-0e4f-4996-bfb7-bcc453834e7a")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/9548f490-0e4f-4996-bfb7-bcc453834e7a")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37223,9 +37223,9 @@
 				)
 			)
 		)
-		(path "/7862e6e0-5297-4c64-ae85-a85cf7d5d593")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/7862e6e0-5297-4c64-ae85-a85cf7d5d593")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37613,9 +37613,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/96c51444-5949-4c08-a0b6-51dbc89b9ae0")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/96c51444-5949-4c08-a0b6-51dbc89b9ae0")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -37847,9 +37847,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/6a41953c-cfb0-43fa-a838-216f94e29b9b")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/6a41953c-cfb0-43fa-a838-216f94e29b9b")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38059,9 +38059,9 @@
 			)
 		)
 		(property ki_fp_filters "*TC2050*")
-		(path "/373c01a7-3246-4321-9c2b-5f3373cb9504")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/373c01a7-3246-4321-9c2b-5f3373cb9504")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38591,9 +38591,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/484be8d9-2e2a-431f-b8fd-cef30f4bf187")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/484be8d9-2e2a-431f-b8fd-cef30f4bf187")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -38892,9 +38892,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/581cd7c1-984c-48b1-aaaf-7c8e04f97c04")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/581cd7c1-984c-48b1-aaaf-7c8e04f97c04")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39180,9 +39180,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/cba4a0e4-61a3-4b81-94b3-afcb11cea94a")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/cba4a0e4-61a3-4b81-94b3-afcb11cea94a")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -39789,9 +39789,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/9386a16f-e6b7-4bba-b7af-60f7f7d2c87e")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/9386a16f-e6b7-4bba-b7af-60f7f7d2c87e")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40061,9 +40061,9 @@
 				)
 			)
 		)
-		(path "/e5977c91-8dad-4868-9f0e-16ebf750c8d7")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/e5977c91-8dad-4868-9f0e-16ebf750c8d7")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40414,9 +40414,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/41dee8c3-e339-4627-bcd5-b33fd7965e2f")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/41dee8c3-e339-4627-bcd5-b33fd7965e2f")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -40690,9 +40690,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/ec006281-569f-4650-9426-4172837ebd7c")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/ec006281-569f-4650-9426-4172837ebd7c")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41031,9 +41031,9 @@
 				)
 			)
 		)
-		(path "/bef512d2-bcae-4d88-9100-80c4a25d10ea")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/bef512d2-bcae-4d88-9100-80c4a25d10ea")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41536,9 +41536,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/5259f28a-44bf-443c-93a1-048bbd90ec71")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/5259f28a-44bf-443c-93a1-048bbd90ec71")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -41821,9 +41821,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d2761a37-3e17-4877-a691-182283a16cf2")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/d2761a37-3e17-4877-a691-182283a16cf2")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42092,9 +42092,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
-		(path "/38d9a0c4-5055-41a2-b0a3-ef4111eb5719")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/38d9a0c4-5055-41a2-b0a3-ef4111eb5719")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -42664,9 +42664,9 @@
 			)
 		)
 		(property ki_fp_filters "TO-???* *_Diode_* *SingleDiode* D_*")
-		(path "/8ae1754e-16ac-4b0c-9bff-8a943e2bb448")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/8ae1754e-16ac-4b0c-9bff-8a943e2bb448")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43017,9 +43017,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/e177ee46-b23b-4c00-a6d4-2046fecef789")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/e177ee46-b23b-4c00-a6d4-2046fecef789")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43282,9 +43282,9 @@
 			)
 		)
 		(property ki_fp_filters "SO*3.9x4.9mm*P1.27mm*")
-		(path "/0f91a6a5-cb9c-4b72-82a1-2820e8131575")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0f91a6a5-cb9c-4b72-82a1-2820e8131575")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -43808,9 +43808,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/53a3ce7d-5d00-4212-9dcc-3145609b41ba")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/53a3ce7d-5d00-4212-9dcc-3145609b41ba")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44096,9 +44096,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/96cb2f42-9c9f-4f2a-9ac1-68648dd56abc")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/96cb2f42-9c9f-4f2a-9ac1-68648dd56abc")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44381,9 +44381,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/a74490c5-b97e-43e3-8e84-f6f99e3ba942")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/a74490c5-b97e-43e3-8e84-f6f99e3ba942")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44666,9 +44666,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/cd288bca-80a3-45ed-a434-29f6f58ed7ce")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/cd288bca-80a3-45ed-a434-29f6f58ed7ce")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -44951,9 +44951,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c1e93794-da4e-4532-b1cc-433e2ef85beb")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/c1e93794-da4e-4532-b1cc-433e2ef85beb")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45236,9 +45236,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/ebb9bbac-1b88-4aea-a42c-74677ff166d7")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/ebb9bbac-1b88-4aea-a42c-74677ff166d7")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45537,9 +45537,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/3f1f801a-77a1-4e1a-8239-ede9b463aaad")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/3f1f801a-77a1-4e1a-8239-ede9b463aaad")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -45822,9 +45822,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/06833dc8-b4f5-4915-aa23-d0ebbf800260")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/06833dc8-b4f5-4915-aa23-d0ebbf800260")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46094,9 +46094,9 @@
 				)
 			)
 		)
-		(path "/b2722957-de18-46ae-b8f2-07ab99556aab")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/b2722957-de18-46ae-b8f2-07ab99556aab")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46386,9 +46386,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/a73888db-e98c-459c-b695-28a7f06700a7")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/a73888db-e98c-459c-b695-28a7f06700a7")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46620,9 +46620,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8e99cd97-b86d-4a84-a19d-ddcd99887a1d")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/8e99cd97-b86d-4a84-a19d-ddcd99887a1d")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -46892,9 +46892,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c1a9be0b-97a2-4d4c-b649-781d1bf8cbb8")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/c1a9be0b-97a2-4d4c-b649-781d1bf8cbb8")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47177,9 +47177,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/c4db764e-e294-443a-ab5f-9284a5d590ba")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/c4db764e-e294-443a-ab5f-9284a5d590ba")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47389,9 +47389,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/3a615179-bd65-471a-b22a-6d96a7c6ab9f")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/3a615179-bd65-471a-b22a-6d96a7c6ab9f")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47623,9 +47623,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/f56c686c-1184-4099-967d-373bd7f75971")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/f56c686c-1184-4099-967d-373bd7f75971")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -47908,9 +47908,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/b84c42a1-33e9-48c7-8789-53af35fc6125")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/b84c42a1-33e9-48c7-8789-53af35fc6125")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48209,9 +48209,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/8cc50672-e453-47ba-9b4f-cb4bd2dcd72b")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/8cc50672-e453-47ba-9b4f-cb4bd2dcd72b")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48481,9 +48481,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/c1f10bec-d46f-420e-a6e4-42847fb354ee")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/c1f10bec-d46f-420e-a6e4-42847fb354ee")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48700,9 +48700,9 @@
 			)
 		)
 		(property ki_fp_filters "MountingHole*")
-		(path "/51e15cf6-a5b3-49ba-9656-35a6a9f22dd2")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/51e15cf6-a5b3-49ba-9656-35a6a9f22dd2")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -48921,9 +48921,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/6e57383a-cbc3-43fd-9207-e8f0f51ff877")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/6e57383a-cbc3-43fd-9207-e8f0f51ff877")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49192,9 +49192,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/977341c5-44b1-4474-975d-2ea6b887ed79")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/977341c5-44b1-4474-975d-2ea6b887ed79")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49477,9 +49477,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/e161325e-c99b-45cd-a792-c69f9ed6b817")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/e161325e-c99b-45cd-a792-c69f9ed6b817")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49778,9 +49778,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/f48c920a-b4d4-49ee-a8fe-0b5f212de878")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/f48c920a-b4d4-49ee-a8fe-0b5f212de878")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -49998,9 +49998,9 @@
 			)
 		)
 		(property ki_fp_filters "Fiducial*")
-		(path "/f7e9de1c-9d06-49ed-bddf-0c59f5a94371")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/f7e9de1c-9d06-49ed-bddf-0c59f5a94371")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50158,9 +50158,9 @@
 			)
 		)
 		(property ki_fp_filters "Pin* Test*")
-		(path "/08798b0a-fe33-4fca-8996-c032ccf46533")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/08798b0a-fe33-4fca-8996-c032ccf46533")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50379,9 +50379,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/2d7d9363-94a7-4385-b329-999dc9da2307")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/2d7d9363-94a7-4385-b329-999dc9da2307")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50666,9 +50666,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/df9c6aea-d667-443f-8478-0b2c86eb9f45")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/df9c6aea-d667-443f-8478-0b2c86eb9f45")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -50950,9 +50950,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/c70c0fe5-3d41-48f4-89d7-8ddd71159f90")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/c70c0fe5-3d41-48f4-89d7-8ddd71159f90")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51222,9 +51222,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/98c92b23-a65b-4039-a73f-94fb5dc66b72")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/98c92b23-a65b-4039-a73f-94fb5dc66b72")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51494,9 +51494,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/51b85962-d355-42f1-9b8c-4c806df6cac5")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/51b85962-d355-42f1-9b8c-4c806df6cac5")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -51767,9 +51767,9 @@
 				)
 			)
 		)
-		(path "/651dce6b-ff4d-4841-b499-9a992b5223b1")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/651dce6b-ff4d-4841-b499-9a992b5223b1")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53043,9 +53043,9 @@
 				)
 			)
 		)
-		(path "/0ee3253a-6d67-4517-8046-e2b8d33e175c")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/0ee3253a-6d67-4517-8046-e2b8d33e175c")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -53323,9 +53323,9 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_2x??_*")
-		(path "/e84c8768-b538-4a89-ae67-2be9e2a449f4")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/e84c8768-b538-4a89-ae67-2be9e2a449f4")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54373,9 +54373,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/09c4607e-2124-4ef3-a154-62e5535b366e")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/09c4607e-2124-4ef3-a154-62e5535b366e")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -54609,9 +54609,9 @@
 			)
 		)
 		(property ki_fp_filters "Crystal*")
-		(path "/4c41cd96-c65d-4ef1-9731-2edd3c505624")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/4c41cd96-c65d-4ef1-9731-2edd3c505624")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55034,9 +55034,9 @@
 				)
 			)
 		)
-		(path "/fa00f426-d93a-4118-a6e6-579c859784fd")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/fa00f426-d93a-4118-a6e6-579c859784fd")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55536,9 +55536,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/2dbff3b7-8e23-4499-8ea3-79381ffb4e24")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/2dbff3b7-8e23-4499-8ea3-79381ffb4e24")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -55836,9 +55836,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/c0c412d6-7ce9-478c-bc33-dd07b2a10732")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/c0c412d6-7ce9-478c-bc33-dd07b2a10732")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56056,9 +56056,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/be70ab44-460d-4ad9-91e7-9ca52d1c4d78")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/be70ab44-460d-4ad9-91e7-9ca52d1c4d78")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56357,9 +56357,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/d037d88b-8400-400c-b68a-9186057a5c63")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/d037d88b-8400-400c-b68a-9186057a5c63")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -56630,9 +56630,9 @@
 				)
 			)
 		)
-		(path "/d290dc29-fe96-42ad-8f45-3393e3801339")
+		(path "/f5e0b514-b029-4171-88d5-56095ae47262/d290dc29-fe96-42ad-8f45-3393e3801339")
 		(sheetname "/Power/")
-		(sheetfile "AirQualityMonitor.kicad_sch")
+		(sheetfile "sheets/power.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57060,9 +57060,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/37f8b72e-39b8-4e36-b209-795005b4c7ef")
+		(path "/2673977d-9078-469a-bce8-6510c7ea2ef5/37f8b72e-39b8-4e36-b209-795005b4c7ef")
 		(sheetname "/Radio MCU/")
-		(sheetfile "radio_mcu.kicad_sch")
+		(sheetfile "sheets/radio_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57361,9 +57361,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/88d14432-6649-41eb-ac81-2eddef1525af")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/88d14432-6649-41eb-ac81-2eddef1525af")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57638,9 +57638,9 @@
 			)
 		)
 		(property ki_fp_filters "Crystal*")
-		(path "/84631977-2bca-491b-ab2c-71ef5791e9ae")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/84631977-2bca-491b-ab2c-71ef5791e9ae")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -57981,9 +57981,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/8ea8ab17-017e-4116-850f-514f370ec172")
+		(path "/84823ba4-ff11-488b-a213-09070bb518d9/8ea8ab17-017e-4116-850f-514f370ec172")
 		(sheetname "/Display/")
-		(sheetfile "display.kicad_sch")
+		(sheetfile "sheets/display.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58266,9 +58266,9 @@
 			)
 		)
 		(property ki_fp_filters "Choke_* *Coil* Inductor_* L_*")
-		(path "/747eda82-2e1a-42fc-b9c3-903d59b0ea8b")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/747eda82-2e1a-42fc-b9c3-903d59b0ea8b")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -58541,9 +58541,9 @@
 			)
 		)
 		(property ki_fp_filters "SOT?23*")
-		(path "/dcf938a7-b0be-4f7c-b77b-c077ff1244ed")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/dcf938a7-b0be-4f7c-b77b-c077ff1244ed")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59060,9 +59060,9 @@
 			)
 		)
 		(property ki_fp_filters "R_*")
-		(path "/42af78eb-7cff-45bc-9e55-426c440d52e0")
+		(path "/87c6ab7c-fdbd-4a0e-b5db-80e44225deb0/42af78eb-7cff-45bc-9e55-426c440d52e0")
 		(sheetname "/Peripherals/")
-		(sheetfile "sensors.kicad_sch")
+		(sheetfile "sheets/peripherals.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -59345,9 +59345,9 @@
 			)
 		)
 		(property ki_fp_filters "C_*")
-		(path "/fd80e747-7969-4bbb-a4b6-7d09bef29e1f")
+		(path "/92fbd5b3-a1e1-477f-88ad-1b3dc74e52d1/fd80e747-7969-4bbb-a4b6-7d09bef29e1f")
 		(sheetname "/Host MCU/")
-		(sheetfile "host_mcu.kicad_sch")
+		(sheetfile "sheets/host_mcu.kicad_sch")
 		(units
 			(unit
 				(name "A")
@@ -80496,6 +80496,190 @@
 		(uuid "dfc9c5a2-02ca-43d7-8e37-c1bb669e01bd")
 	)
 	(segment
+		(start 145.1 75.6)
+		(end 145.1 76.38)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "LED_STATUS")
+		(uuid "d6fdf142-b2ae-4d71-a5bc-80c528e0b2e6")
+	)
+	(via
+		(at 139.6 74.9)
+		(size 0.3)
+		(drill 0.2)
+		(layers "F.Cu" "B.Cu")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_layer_connections)
+		(tenting
+			(front no)
+			(back no)
+		)
+		(capping yes)
+		(covering
+			(front no)
+			(back no)
+		)
+		(plugging
+			(front no)
+			(back no)
+		)
+		(filling yes)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 1)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(net "LED_STATUS")
+		(uuid "02738ca3-63ab-4a01-8c49-041507a4e6c7")
+	)
+	(via
+		(at 145.1 75.6)
+		(size 0.45)
+		(drill 0.3)
+		(layers "F.Cu" "B.Cu")
+		(remove_unused_layers yes)
+		(keep_end_layers yes)
+		(zone_layer_connections)
+		(tenting
+			(front yes)
+			(back yes)
+		)
+		(capping no)
+		(covering
+			(front yes)
+			(back yes)
+		)
+		(plugging
+			(front no)
+			(back no)
+		)
+		(filling no)
+		(teardrops
+			(best_length_ratio 0.5)
+			(max_length 1)
+			(best_width_ratio 1)
+			(max_width 1)
+			(curved_edges no)
+			(filter_ratio 0.9)
+			(enabled yes)
+			(allow_two_segments yes)
+			(prefer_zone_connections yes)
+		)
+		(net "LED_STATUS")
+		(uuid "4b4d062a-ccf6-4b73-84e9-2652bc398c1b")
+	)
+	(segment
+		(start 142.4 74.7)
+		(end 140.2 74.7)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "26bf7406-7c1b-4dda-ba48-a7656a65d5ab")
+	)
+	(segment
+		(start 140.2 74.7)
+		(end 140 74.9)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "42277344-b31e-4a54-9dca-67eb5869969b")
+	)
+	(segment
+		(start 143.3 73.8)
+		(end 142.4 74.7)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "63c5dafb-3456-4c66-9403-3a77b041c172")
+	)
+	(segment
+		(start 144.163603 73.8)
+		(end 143.3 73.8)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "7098f69d-413f-46b5-8aab-b8cc1f8ec6a5")
+	)
+	(segment
+		(start 144.7 73.5)
+		(end 144.9 73.5)
+		(width 0.15)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "74652127-a9d4-4e4b-b704-be28d8c48b84")
+	)
+	(segment
+		(start 144.9 73.5)
+		(end 145.1 73.7)
+		(width 0.15)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "75976e06-9aee-4a4b-bf92-0cc1ef243aa1")
+	)
+	(segment
+		(start 140 74.9)
+		(end 139.6 74.9)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "c1920376-ed6c-45e9-bde6-3ba54e953529")
+	)
+	(segment
+		(start 144.463603 73.5)
+		(end 144.163603 73.8)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "da0b0c0d-8a9d-4dad-ac68-82eb7351e37b")
+	)
+	(segment
+		(start 144.7 73.5)
+		(end 144.463603 73.5)
+		(width 0.1)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "e0d23996-03f5-447b-a55d-92c93cfc8fea")
+	)
+	(segment
+		(start 145.1 73.7)
+		(end 145.1 75.6)
+		(width 0.15)
+		(layer "B.Cu")
+		(net "LED_STATUS")
+		(uuid "ec21c56d-b96b-43da-b978-08d4b7e3c703")
+	)
+	(segment
+		(start 145.55 77.4)
+		(end 145.85 77.1)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "Net-(D2-A)")
+		(uuid "14231ed0-f913-4ed6-8454-e54e430f4854")
+	)
+	(segment
+		(start 145.85 77.1)
+		(end 146.5 77.1)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "Net-(D2-A)")
+		(uuid "6d3d095a-cbaa-4f45-9b9c-d9e93db44b0a")
+	)
+	(segment
+		(start 145.1 77.4)
+		(end 145.55 77.4)
+		(width 0.15)
+		(layer "F.Cu")
+		(net "Net-(D2-A)")
+		(uuid "b13edfa7-c131-4a4b-97ef-d6d8f385603b")
+	)
+	(segment
 		(start 126.124999 44.35)
 		(end 126.124999 42.725)
 		(width 0.6)
@@ -95546,166 +95730,6 @@
 		(uuid "f1557764-2141-4105-a44c-73b7b6d2c2fd")
 	)
 	(segment
-		(start 145.1 75.6)
-		(end 145.1 76.38)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "LED_STATUS")
-		(uuid "d6fdf142-b2ae-4d71-a5bc-80c528e0b2e6")
-	)
-	(via
-		(at 139.6 74.9)
-		(size 0.3)
-		(drill 0.2)
-		(layers "F.Cu" "B.Cu")
-		(remove_unused_layers yes)
-		(keep_end_layers yes)
-		(zone_layer_connections)
-		(tenting
-			(front no)
-			(back no)
-		)
-		(capping yes)
-		(covering
-			(front no)
-			(back no)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling yes)
-		(teardrops
-			(best_length_ratio 0.5)
-			(max_length 1)
-			(best_width_ratio 1)
-			(max_width 1)
-			(curved_edges no)
-			(filter_ratio 0.9)
-			(enabled yes)
-			(allow_two_segments yes)
-			(prefer_zone_connections yes)
-		)
-		(net "LED_STATUS")
-		(uuid "02738ca3-63ab-4a01-8c49-041507a4e6c7")
-	)
-	(via
-		(at 145.1 75.6)
-		(size 0.45)
-		(drill 0.3)
-		(layers "F.Cu" "B.Cu")
-		(remove_unused_layers yes)
-		(keep_end_layers yes)
-		(zone_layer_connections)
-		(tenting
-			(front yes)
-			(back yes)
-		)
-		(capping no)
-		(covering
-			(front yes)
-			(back yes)
-		)
-		(plugging
-			(front no)
-			(back no)
-		)
-		(filling no)
-		(teardrops
-			(best_length_ratio 0.5)
-			(max_length 1)
-			(best_width_ratio 1)
-			(max_width 1)
-			(curved_edges no)
-			(filter_ratio 0.9)
-			(enabled yes)
-			(allow_two_segments yes)
-			(prefer_zone_connections yes)
-		)
-		(net "LED_STATUS")
-		(uuid "4b4d062a-ccf6-4b73-84e9-2652bc398c1b")
-	)
-	(segment
-		(start 142.4 74.7)
-		(end 140.2 74.7)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "26bf7406-7c1b-4dda-ba48-a7656a65d5ab")
-	)
-	(segment
-		(start 140.2 74.7)
-		(end 140 74.9)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "42277344-b31e-4a54-9dca-67eb5869969b")
-	)
-	(segment
-		(start 143.3 73.8)
-		(end 142.4 74.7)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "63c5dafb-3456-4c66-9403-3a77b041c172")
-	)
-	(segment
-		(start 144.163603 73.8)
-		(end 143.3 73.8)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "7098f69d-413f-46b5-8aab-b8cc1f8ec6a5")
-	)
-	(segment
-		(start 144.7 73.5)
-		(end 144.9 73.5)
-		(width 0.15)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "74652127-a9d4-4e4b-b704-be28d8c48b84")
-	)
-	(segment
-		(start 144.9 73.5)
-		(end 145.1 73.7)
-		(width 0.15)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "75976e06-9aee-4a4b-bf92-0cc1ef243aa1")
-	)
-	(segment
-		(start 140 74.9)
-		(end 139.6 74.9)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "c1920376-ed6c-45e9-bde6-3ba54e953529")
-	)
-	(segment
-		(start 144.463603 73.5)
-		(end 144.163603 73.8)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "da0b0c0d-8a9d-4dad-ac68-82eb7351e37b")
-	)
-	(segment
-		(start 144.7 73.5)
-		(end 144.463603 73.5)
-		(width 0.1)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "e0d23996-03f5-447b-a55d-92c93cfc8fea")
-	)
-	(segment
-		(start 145.1 73.7)
-		(end 145.1 75.6)
-		(width 0.15)
-		(layer "B.Cu")
-		(net "LED_STATUS")
-		(uuid "ec21c56d-b96b-43da-b978-08d4b7e3c703")
-	)
-	(segment
 		(start 141.525 79.325)
 		(end 141.525 79.575)
 		(width 0.1)
@@ -99541,30 +99565,6 @@
 		(net "Net-(J4-Pin_11)")
 		(uuid "e4e4ad7b-7ace-4dcd-9b35-058e0fe0d2bc")
 	)
-	(segment
-		(start 145.55 77.4)
-		(end 145.85 77.1)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "Net-(D2-A)")
-		(uuid "14231ed0-f913-4ed6-8454-e54e430f4854")
-	)
-	(segment
-		(start 145.85 77.1)
-		(end 146.5 77.1)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "Net-(D2-A)")
-		(uuid "6d3d095a-cbaa-4f45-9b9c-d9e93db44b0a")
-	)
-	(segment
-		(start 145.1 77.4)
-		(end 145.55 77.4)
-		(width 0.15)
-		(layer "F.Cu")
-		(net "Net-(D2-A)")
-		(uuid "b13edfa7-c131-4a4b-97ef-d6d8f385603b")
-	)
 	(zone
 		(net "IO_4")
 		(layer "F.Cu")
@@ -99639,7 +99639,7 @@
 		(net "/Host MCU/HOST_XC2")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30641)
+		(priority 30724)
 		(attr
 			(teardrop
 				(type padvia)
@@ -99660,7 +99660,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.785449 76.2) (xy 139.785449 76.1) (xy 139.655557 76.016853) (xy 139.584449 76.15) (xy 139.580491 76.198079)
+				(xy 139.66271 76.022946) (xy 139.667871 76.024736) (xy 139.716502 76.055865) (xy 139.778096 76.095293)
+				(xy 139.781385 76.098454) (xy 139.783346 76.101267) (xy 139.785449 76.107959) (xy 139.785449 76.185862)
+				(xy 139.784558 76.190341) (xy 139.783876 76.191987) (xy 139.777543 76.198318) (xy 139.775949 76.198978)
+				(xy 139.771363 76.199867) (xy 139.595402 76.198217) (xy 139.590936 76.197286) (xy 139.589296 76.196589)
+				(xy 139.583022 76.190199) (xy 139.582494 76.18889) (xy 139.581685 76.183561) (xy 139.584152 76.153597)
+				(xy 139.584587 76.151264) (xy 139.585252 76.149008) (xy 139.586155 76.146803) (xy 139.6069 76.107959)
+				(xy 139.648499 76.030068) (xy 139.651387 76.026546) (xy 139.652768 76.025412) (xy 139.661333 76.022811)
 			)
 		)
 	)
@@ -101286,7 +101292,7 @@
 		(net "/Host MCU/HOST_ANT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30510)
+		(priority 30678)
 		(attr
 			(teardrop
 				(type padvia)
@@ -101308,8 +101314,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.72175 77.986956) (xy 137.87825 77.986956) (xy 137.970078 77.725224) (xy 137.8 77.585956)
-				(xy 137.6 77.783437)
+				(xy 137.808143 77.592624) (xy 137.963737 77.720032) (xy 137.967967 77.727923) (xy 137.967365 77.732956)
+				(xy 137.880996 77.979129) (xy 137.875024 77.985802) (xy 137.869956 77.986956) (xy 137.728385 77.986956)
+				(xy 137.720112 77.983529) (xy 137.718344 77.981263) (xy 137.604712 77.791314) (xy 137.603407 77.782458)
+				(xy 137.606531 77.776987) (xy 137.792511 77.59335) (xy 137.800805 77.589976)
 			)
 		)
 	)
@@ -101454,7 +101462,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30331)
+		(priority 30503)
 		(attr
 			(teardrop
 				(type padvia)
@@ -101476,8 +101484,18 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.668232 74.126811) (xy 141.526811 74.268232) (xy 141.616811 74.358233) (xy 141.687522 74.387522)
-				(xy 141.881246 74.556517) (xy 142.121241 74.287522) (xy 141.881246 74.018527) (xy 141.687522 74.187522)
+				(xy 141.885328 74.025388) (xy 141.886886 74.02615) (xy 141.890472 74.028869) (xy 142.112743 74.277998)
+				(xy 142.115057 74.281928) (xy 142.115773 74.283978) (xy 142.115535 74.292307) (xy 142.11505 74.293478)
+				(xy 142.11297 74.29679) (xy 141.890498 74.546145) (xy 141.886856 74.548892) (xy 141.885216 74.549684)
+				(xy 141.876331 74.550214) (xy 141.874783 74.549684) (xy 141.874693 74.549653) (xy 141.870799 74.547403)
+				(xy 141.687806 74.38777) (xy 141.687525 74.387507) (xy 141.687521 74.387505) (xy 141.687139 74.387362)
+				(xy 141.621235 74.360064) (xy 141.619214 74.358984) (xy 141.617332 74.357727) (xy 141.615557 74.356271)
+				(xy 141.537082 74.277796) (xy 141.534545 74.273998) (xy 141.533864 74.272353) (xy 141.533863 74.263405)
+				(xy 141.534544 74.261759) (xy 141.537079 74.257962) (xy 141.652989 74.142052) (xy 141.656784 74.139517)
+				(xy 141.657461 74.139237) (xy 141.658432 74.138836) (xy 141.66737 74.138833) (xy 141.667634 74.138942)
+				(xy 141.673175 74.143692) (xy 141.673335 74.143956) (xy 141.67448 74.146477) (xy 141.687635 74.187881)
+				(xy 141.688924 74.187907) (xy 141.689718 74.187537) (xy 141.690948 74.184569) (xy 141.69152 74.184033)
+				(xy 141.870777 74.027657) (xy 141.874731 74.025389) (xy 141.876462 74.024807)
 			)
 		)
 	)
@@ -101620,7 +101638,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30323)
+		(priority 30431)
 		(attr
 			(teardrop
 				(type padvia)
@@ -101641,7 +101659,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 140.040548 78.1) (xy 140.040548 78.3) (xy 140.380735 78.433064) (xy 140.641548 78.2) (xy 140.630538 77.966936)
+				(xy 140.620496 77.970617) (xy 140.620978 77.9707) (xy 140.62855 77.975481) (xy 140.628553 77.975485)
+				(xy 140.629147 77.976327) (xy 140.631274 77.98252) (xy 140.641175 78.192108) (xy 140.640496 78.196624)
+				(xy 140.639209 78.200198) (xy 140.635997 78.204958) (xy 140.387831 78.426721) (xy 140.383901 78.42904)
+				(xy 140.380893 78.430093) (xy 140.372765 78.429946) (xy 140.050155 78.303757) (xy 140.046309 78.301296)
+				(xy 140.04414 78.299211) (xy 140.04055 78.291007) (xy 140.040548 78.290776) (xy 140.040548 78.111681)
+				(xy 140.041438 78.107205) (xy 140.042405 78.10487) (xy 140.047564 78.099103) (xy 140.048217 78.098743)
+				(xy 140.051286 78.097577) (xy 140.614667 77.970514) (xy 140.619224 77.970398)
 			)
 		)
 	)
@@ -101922,7 +101946,7 @@
 		(net "/Host MCU/HOST_ANT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30628)
+		(priority 30703)
 		(attr
 			(teardrop
 				(type padvia)
@@ -101944,8 +101968,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.72175 76.698079) (xy 137.87825 76.698079) (xy 137.898079 76.519509) (xy 137.8 76.497079)
-				(xy 137.701921 76.519509)
+				(xy 137.803891 76.497968) (xy 137.885638 76.516663) (xy 137.889805 76.51853) (xy 137.891572 76.519785)
+				(xy 137.896202 76.526713) (xy 137.896484 76.527945) (xy 137.896708 76.531847) (xy 137.879662 76.685358)
+				(xy 137.878282 76.68971) (xy 137.877243 76.691597) (xy 137.870871 76.696993) (xy 137.869661 76.697418)
+				(xy 137.865784 76.698079) (xy 137.73455 76.698079) (xy 137.730071 76.697187) (xy 137.728076 76.696361)
+				(xy 137.722012 76.69062) (xy 137.721457 76.689465) (xy 137.720374 76.685689) (xy 137.720337 76.685358)
+				(xy 137.703328 76.532184) (xy 137.703719 76.527643) (xy 137.704324 76.525557) (xy 137.709338 76.51891)
+				(xy 137.710415 76.518234) (xy 137.714017 76.516742) (xy 137.796108 76.497968) (xy 137.798716 76.497675)
+				(xy 137.801284 76.497675)
 			)
 		)
 	)
@@ -102226,7 +102256,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30309)
+		(priority 30313)
 		(attr
 			(teardrop
 				(type padvia)
@@ -102248,8 +102278,11 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.483617 73.971485) (xy 137.271485 74.183617) (xy 137.561994 74.682628) (xy 137.802522 74.502522)
-				(xy 137.982628 74.261994)
+				(xy 137.491402 73.976017) (xy 137.971276 74.255385) (xy 137.976701 74.262509) (xy 137.9755 74.271383)
+				(xy 137.974754 74.272509) (xy 137.803529 74.501177) (xy 137.801177 74.503529) (xy 137.572509 74.674754)
+				(xy 137.563832 74.67697) (xy 137.556131 74.672402) (xy 137.555385 74.671276) (xy 137.457728 74.503529)
+				(xy 137.276017 74.191402) (xy 137.274817 74.182531) (xy 137.277854 74.177247) (xy 137.477246 73.977855)
+				(xy 137.485518 73.974429)
 			)
 		)
 	)
@@ -102257,7 +102290,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30317)
+		(priority 30362)
 		(attr
 			(teardrop
 				(type padvia)
@@ -102279,8 +102312,12 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.05 74.931748) (xy 138.35 74.931748) (xy 138.35 74.9) (xy 138.306066 74.793934) (xy 138.077164 74.385195)
-				(xy 137.797478 74.497478) (xy 137.685195 74.777164) (xy 138.093934 75.006066) (xy 138.05 74.9)
+				(xy 138.076575 74.389123) (xy 138.082188 74.394166) (xy 138.30573 74.793334) (xy 138.306331 74.794574)
+				(xy 138.349109 74.897848) (xy 138.35 74.902325) (xy 138.35 74.920048) (xy 138.346573 74.928321)
+				(xy 138.3383 74.931748) (xy 138.063149 74.931748) (xy 138.081021 74.974895) (xy 138.081021 74.983849)
+				(xy 138.074689 74.990181) (xy 138.065735 74.990181) (xy 138.0645 74.989582) (xy 137.694165 74.782187)
+				(xy 137.688622 74.775156) (xy 137.689024 74.767624) (xy 137.795616 74.502114) (xy 137.801879 74.495714)
+				(xy 137.802084 74.495628) (xy 138.067623 74.389025)
 			)
 		)
 	)
@@ -102515,8 +102552,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.120363 78.099412) (xy 139.520363 78.099412) (xy 139.617796 77.541137) (xy 139.320363 77.498412)
-				(xy 139.02293 77.541137)
+				(xy 139.322855 77.49877) (xy 139.603556 77.539091) (xy 139.607857 77.540607) (xy 139.609389 77.541515)
+				(xy 139.614759 77.548681) (xy 139.614761 77.548689) (xy 139.615159 77.55025) (xy 139.615348 77.555153)
+				(xy 139.522453 78.087433) (xy 139.520805 78.091691) (xy 139.51954 78.093684) (xy 139.513201 78.098566)
+				(xy 139.51268 78.098731) (xy 139.512259 78.098864) (xy 139.508723 78.099412) (xy 139.132525 78.099412)
+				(xy 139.128048 78.098521) (xy 139.125861 78.097615) (xy 139.119961 78.092205) (xy 139.119507 78.091332)
+				(xy 139.118362 78.08795) (xy 139.025403 77.555306) (xy 139.02551 77.550747) (xy 139.025621 77.55025)
+				(xy 139.025899 77.549006) (xy 139.031042 77.541682) (xy 139.032408 77.540815) (xy 139.037005 77.539114)
+				(xy 139.317871 77.49877) (xy 139.319535 77.498651) (xy 139.321191 77.498651)
 			)
 		)
 	)
@@ -102627,7 +102670,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30319)
+		(priority 30374)
 		(attr
 			(teardrop
 				(type padvia)
@@ -102649,8 +102692,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 142.639952 73.909232) (xy 142.498531 73.767811) (xy 142.034262 73.977522) (xy 142.119534 74.288229)
-				(xy 142.400241 74.403502)
+				(xy 142.503172 73.772835) (xy 142.503203 73.772855) (xy 142.505133 73.774413) (xy 142.632418 73.901698)
+				(xy 142.634955 73.905495) (xy 142.63606 73.908164) (xy 142.636657 73.915242) (xy 142.636618 73.915413)
+				(xy 142.635738 73.917917) (xy 142.406054 74.391512) (xy 142.403299 74.395152) (xy 142.401809 74.396476)
+				(xy 142.39371 74.399425) (xy 142.392206 74.399383) (xy 142.388089 74.398511) (xy 142.127005 74.291296)
+				(xy 142.123203 74.288773) (xy 142.120574 74.286161) (xy 142.117538 74.280959) (xy 142.037522 73.989404)
+				(xy 142.037197 73.984857) (xy 142.037485 73.982559) (xy 142.041213 73.975372) (xy 142.042003 73.974653)
+				(xy 142.045061 73.972643) (xy 142.489044 73.772094) (xy 142.493485 73.771066) (xy 142.496464 73.770972)
 			)
 		)
 	)
@@ -103872,6 +103920,72 @@
 		)
 	)
 	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30314)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 137.271485 72.816383) (xy 137.483617 73.028515) (xy 137.982628 72.738006) (xy 137.802522 72.497478)
+				(xy 137.561994 72.317372)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.571383 72.324499) (xy 137.572502 72.32524) (xy 137.80118 72.496473) (xy 137.803526 72.498819)
+				(xy 137.974754 72.72749) (xy 137.97697 72.736167) (xy 137.972402 72.743868) (xy 137.971276 72.744614)
+				(xy 137.491405 73.023981) (xy 137.482531 73.025182) (xy 137.477245 73.022143) (xy 137.277856 72.822754)
+				(xy 137.274429 72.814481) (xy 137.276016 72.808598) (xy 137.555386 72.328721) (xy 137.562509 72.323298)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30315)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 138.328515 72.183617) (xy 138.116383 71.971485) (xy 137.617372 72.261994) (xy 137.797478 72.502522)
+				(xy 138.038006 72.682628)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.122754 71.977856) (xy 138.322143 72.177245) (xy 138.32557 72.185518) (xy 138.323981 72.191405)
+				(xy 138.044614 72.671276) (xy 138.03749 72.676701) (xy 138.028616 72.6755) (xy 138.02749 72.674754)
+				(xy 137.798819 72.503526) (xy 137.796473 72.50118) (xy 137.625244 72.272507) (xy 137.623029 72.263832)
+				(xy 137.627597 72.256131) (xy 137.628713 72.255391) (xy 138.108597 71.976017) (xy 138.117468 71.974817)
+			)
+		)
+	)
+	(zone
 		(net "I2C_H_SCL")
 		(layer "F.Cu")
 		(hatch none 0.1)
@@ -103942,7 +104056,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30310)
+		(priority 30316)
 		(attr
 			(teardrop
 				(type padvia)
@@ -103964,8 +104078,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.483617 74.971485) (xy 138.271485 75.183617) (xy 138.561994 75.682628) (xy 138.802522 75.502522)
-				(xy 138.982628 75.261994)
+				(xy 138.489904 74.975613) (xy 138.492742 74.976798) (xy 138.969264 75.254214) (xy 138.972684 75.257234)
+				(xy 138.973763 75.258651) (xy 138.976052 75.267307) (xy 138.976051 75.26731) (xy 138.975886 75.268529)
+				(xy 138.973657 75.273973) (xy 138.804029 75.500508) (xy 138.802937 75.501768) (xy 138.801768 75.502937)
+				(xy 138.800508 75.504029) (xy 138.574372 75.673358) (xy 138.570255 75.675329) (xy 138.568529 75.67577)
+				(xy 138.559668 75.674499) (xy 138.55861 75.673872) (xy 138.554464 75.669693) (xy 138.457728 75.503528)
+				(xy 138.457728 75.503529) (xy 138.277185 75.193409) (xy 138.275705 75.189097) (xy 138.27535 75.186474)
+				(xy 138.2768 75.17908) (xy 138.277085 75.178584) (xy 138.278947 75.176153) (xy 138.475602 74.979498)
+				(xy 138.479395 74.976964) (xy 138.481841 74.975952) (xy 138.489363 74.975467)
 			)
 		)
 	)
@@ -105669,7 +105789,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30311)
+		(priority 30317)
 		(attr
 			(teardrop
 				(type padvia)
@@ -105691,8 +105811,11 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.483617 73.971485) (xy 137.271485 74.183617) (xy 137.561994 74.682628) (xy 137.802522 74.502522)
-				(xy 137.982628 74.261994)
+				(xy 137.491402 73.976017) (xy 137.971276 74.255385) (xy 137.976701 74.262509) (xy 137.9755 74.271383)
+				(xy 137.974754 74.272509) (xy 137.803529 74.501177) (xy 137.801177 74.503529) (xy 137.572509 74.674754)
+				(xy 137.563832 74.67697) (xy 137.556131 74.672402) (xy 137.555385 74.671276) (xy 137.457728 74.503529)
+				(xy 137.276017 74.191402) (xy 137.274817 74.182531) (xy 137.277854 74.177247) (xy 137.477246 73.977855)
+				(xy 137.485518 73.974429)
 			)
 		)
 	)
@@ -105700,7 +105823,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30313)
+		(priority 30318)
 		(attr
 			(teardrop
 				(type padvia)
@@ -105722,8 +105845,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.116383 75.028515) (xy 138.328515 74.816383) (xy 138.038006 74.317372) (xy 137.797478 74.497478)
-				(xy 137.617372 74.738006)
+				(xy 138.043868 74.327597) (xy 138.044614 74.328723) (xy 138.323981 74.808595) (xy 138.325182 74.817468)
+				(xy 138.322143 74.822754) (xy 138.122754 75.022143) (xy 138.114481 75.02557) (xy 138.108595 75.023981)
+				(xy 137.628723 74.744614) (xy 137.623298 74.73749) (xy 137.624499 74.728616) (xy 137.625234 74.727505)
+				(xy 137.796476 74.498815) (xy 137.798815 74.496476) (xy 138.027492 74.325244) (xy 138.036167 74.323029)
 			)
 		)
 	)
@@ -105760,6 +105885,39 @@
 				(xy 143.996108 63.765994) (xy 143.884651 63.458589) (xy 143.883962 63.454081) (xy 143.884041 63.452304)
 				(xy 143.887831 63.444193) (xy 143.888709 63.443391) (xy 143.894053 63.440609) (xy 144.096193 63.395525)
 				(xy 144.09874 63.395245) (xy 144.10126 63.395245)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30319)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 137.328515 73.183617) (xy 137.116383 72.971485) (xy 136.617372 73.261994) (xy 136.797478 73.502522)
+				(xy 137.038006 73.682628)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.122754 72.977856) (xy 137.322143 73.177245) (xy 137.32557 73.185518) (xy 137.323981 73.191405)
+				(xy 137.044614 73.671276) (xy 137.03749 73.676701) (xy 137.028616 73.6755) (xy 137.02749 73.674754)
+				(xy 136.798819 73.503526) (xy 136.796473 73.50118) (xy 136.625244 73.272507) (xy 136.623029 73.263832)
+				(xy 136.627597 73.256131) (xy 136.628713 73.255391) (xy 137.108597 72.976017) (xy 137.117468 72.974817)
 			)
 		)
 	)
@@ -108327,7 +108485,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30314)
+		(priority 30320)
 		(attr
 			(teardrop
 				(type padvia)
@@ -108349,8 +108507,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.116383 74.028515) (xy 137.328515 73.816383) (xy 137.038006 73.317372) (xy 136.797478 73.497478)
-				(xy 136.617372 73.738006)
+				(xy 137.043868 73.327597) (xy 137.044614 73.328723) (xy 137.323981 73.808595) (xy 137.325182 73.817468)
+				(xy 137.322143 73.822754) (xy 137.122754 74.022143) (xy 137.114481 74.02557) (xy 137.108595 74.023981)
+				(xy 136.628723 73.744614) (xy 136.623298 73.73749) (xy 136.624499 73.728616) (xy 136.625234 73.727505)
+				(xy 136.796476 73.498815) (xy 136.798815 73.496476) (xy 137.027492 73.325244) (xy 137.036167 73.323029)
 			)
 		)
 	)
@@ -108837,7 +108997,11 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.6 72.6) (xy 139.6 72.4) (xy 139.4 72.4) (xy 139.3 72) (xy 136.799 72.5) (xy 139.3 73) (xy 139.4 72.6)
+				(xy 139.297845 72.003926) (xy 139.302705 72.010822) (xy 139.367568 72.270273) (xy 139.4 72.4) (xy 139.5883 72.4)
+				(xy 139.596573 72.403427) (xy 139.6 72.4117) (xy 139.6 72.5883) (xy 139.596573 72.596573) (xy 139.5883 72.6)
+				(xy 139.4 72.6) (xy 139.302705 72.989177) (xy 139.297374 72.996372) (xy 139.28906 72.997812) (xy 137.282058 72.596573)
+				(xy 136.856386 72.511472) (xy 136.848947 72.506491) (xy 136.847208 72.497706) (xy 136.85219 72.490266)
+				(xy 136.856386 72.488527) (xy 139.28906 72.002187)
 			)
 		)
 	)
@@ -109354,8 +109518,15 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.6 75.4) (xy 139.6 75.2) (xy 139.4 75.2) (xy 139.3 74.8) (xy 136.799 75.3) (xy 139.3 75.8)
-				(xy 139.4 75.4)
+				(xy 139.29325 74.803016) (xy 139.300541 74.807753) (xy 139.301446 74.809037) (xy 139.303234 74.812939)
+				(xy 139.367568 75.070273) (xy 139.4 75.2) (xy 139.585973 75.2) (xy 139.590448 75.20089) (xy 139.591281 75.201234)
+				(xy 139.592093 75.201571) (xy 139.598425 75.207899) (xy 139.598427 75.207902) (xy 139.599109 75.209548)
+				(xy 139.6 75.214027) (xy 139.6 75.385972) (xy 139.599109 75.390451) (xy 139.598427 75.392097) (xy 139.592099 75.398426)
+				(xy 139.591227 75.398787) (xy 139.590452 75.399108) (xy 139.585973 75.4) (xy 139.4 75.4) (xy 139.303269 75.78692)
+				(xy 139.301318 75.791049) (xy 139.300161 75.79261) (xy 139.292758 75.797171) (xy 139.291211 75.797439)
+				(xy 139.28692 75.797384) (xy 137.282058 75.396573) (xy 136.858668 75.311928) (xy 136.854455 75.310179)
+				(xy 136.854338 75.3101) (xy 136.853408 75.309478) (xy 136.848439 75.302029) (xy 136.85018 75.293266)
+				(xy 136.850184 75.293261) (xy 136.857621 75.288279) (xy 139.286779 74.802642) (xy 139.291338 74.802638)
 			)
 		)
 	)
@@ -110236,6 +110407,39 @@
 		)
 	)
 	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30321)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 137.328515 73.183617) (xy 137.116383 72.971485) (xy 136.617372 73.261994) (xy 136.797478 73.502522)
+				(xy 137.038006 73.682628)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.122754 72.977856) (xy 137.322143 73.177245) (xy 137.32557 73.185518) (xy 137.323981 73.191405)
+				(xy 137.044614 73.671276) (xy 137.03749 73.676701) (xy 137.028616 73.6755) (xy 137.02749 73.674754)
+				(xy 136.798819 73.503526) (xy 136.796473 73.50118) (xy 136.625244 73.272507) (xy 136.623029 73.263832)
+				(xy 136.627597 73.256131) (xy 136.628713 73.255391) (xy 137.108597 72.976017) (xy 137.117468 72.974817)
+			)
+		)
+	)
+	(zone
 		(net "~{RESET}")
 		(layer "F.Cu")
 		(hatch none 0.1)
@@ -110414,7 +110618,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30619)
+		(priority 30680)
 		(attr
 			(teardrop
 				(type padvia)
@@ -110436,8 +110640,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.433865 77.614865) (xy 141.292443 77.756287) (xy 141.608785 78.072629) (xy 141.679496 78.001918)
-				(xy 141.750207 77.931207)
+				(xy 141.442137 77.623137) (xy 141.741934 77.922934) (xy 141.745361 77.931207) (xy 141.741934 77.93948)
+				(xy 141.617058 78.064356) (xy 141.608785 78.067783) (xy 141.600512 78.064356) (xy 141.460615 77.924459)
+				(xy 141.459277 77.922448) (xy 141.459108 77.922562) (xy 141.458466 77.921601) (xy 141.30107 77.764205)
+				(xy 141.297643 77.755932) (xy 141.301069 77.74766) (xy 141.425594 77.623135) (xy 141.433864 77.61971)
 			)
 		)
 	)
@@ -110587,7 +110793,7 @@
 		(net "/Host MCU/HOST_DECR")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30362)
+		(priority 30510)
 		(attr
 			(teardrop
 				(type padvia)
@@ -110609,8 +110815,16 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.019608 76.105393) (xy 140.878187 76.246814) (xy 141 76.327206) (xy 140.861994 76.528319)
-				(xy 141.1 76.714514) (xy 141.338006 76.528319) (xy 141.2 76.327206) (xy 141.170711 76.256495)
+				(xy 141.025732 76.112774) (xy 141.029524 76.115309) (xy 141.15089 76.236674) (xy 141.168249 76.254033)
+				(xy 141.169705 76.255808) (xy 141.170962 76.25769) (xy 141.172042 76.259711) (xy 141.199988 76.327183)
+				(xy 141.199998 76.327203) (xy 141.200002 76.32721) (xy 141.33047 76.517337) (xy 141.332269 76.521533)
+				(xy 141.332682 76.523483) (xy 141.331236 76.53198) (xy 141.330455 76.533266) (xy 141.327664 76.536408)
+				(xy 141.109041 76.70744) (xy 141.104967 76.709497) (xy 141.102468 76.710192) (xy 141.094852 76.709728)
+				(xy 141.094261 76.709483) (xy 141.091533 76.70789) (xy 140.872483 76.536525) (xy 140.869506 76.533066)
+				(xy 140.868522 76.531325) (xy 140.867344 76.5228) (xy 140.867703 76.521334) (xy 140.869417 76.5175)
+				(xy 141 76.327206) (xy 140.892093 76.255991) (xy 140.888848 76.252782) (xy 140.88785 76.251307)
+				(xy 140.886053 76.242546) (xy 140.886234 76.241609) (xy 140.889447 76.235552) (xy 141.009692 76.115307)
+				(xy 141.013479 76.112776) (xy 141.015131 76.112091) (xy 141.024081 76.112091)
 			)
 		)
 	)
@@ -112244,7 +112458,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30428)
+		(priority 30642)
 		(attr
 			(teardrop
 				(type padvia)
@@ -112265,7 +112479,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 142.1 78.08) (xy 142.1 77.88) (xy 141.871186 77.78) (xy 141.699 77.98) (xy 141.871186 78.18)
+				(xy 141.879101 77.783459) (xy 142.092985 77.876934) (xy 142.099194 77.883387) (xy 142.1 77.887655)
+				(xy 142.1 78.072344) (xy 142.096573 78.080617) (xy 142.092985 78.083065) (xy 141.879101 78.17654)
+				(xy 141.870148 78.176713) (xy 141.865549 78.173453) (xy 141.787731 78.083065) (xy 141.705571 77.987633)
+				(xy 141.702772 77.979128) (xy 141.705572 77.972366) (xy 141.865551 77.786544) (xy 141.873544 77.782513)
 			)
 		)
 	)
@@ -112368,6 +112585,39 @@
 				(xy 106.020156 80.480111) (xy 106.016483 80.477393) (xy 106.014853 80.475598) (xy 106.011828 80.468293)
 				(xy 106.011785 80.467396) (xy 106.012135 80.463944) (xy 106.122133 80.032758) (xy 106.124098 80.028649)
 				(xy 106.126154 80.025903) (xy 106.131859 80.021804) (xy 106.538121 79.888219) (xy 106.542647 79.887668)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30322)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 137.271485 72.816383) (xy 137.483617 73.028515) (xy 137.982628 72.738006) (xy 137.802522 72.497478)
+				(xy 137.561994 72.317372)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.571383 72.324499) (xy 137.572502 72.32524) (xy 137.80118 72.496473) (xy 137.803526 72.498819)
+				(xy 137.974754 72.72749) (xy 137.97697 72.736167) (xy 137.972402 72.743868) (xy 137.971276 72.744614)
+				(xy 137.491405 73.023981) (xy 137.482531 73.025182) (xy 137.477245 73.022143) (xy 137.277856 72.822754)
+				(xy 137.274429 72.814481) (xy 137.276016 72.808598) (xy 137.555386 72.328721) (xy 137.562509 72.323298)
 			)
 		)
 	)
@@ -112716,7 +112966,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30315)
+		(priority 30323)
 		(attr
 			(teardrop
 				(type padvia)
@@ -112738,8 +112988,10 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.116383 74.028515) (xy 137.328515 73.816383) (xy 137.038006 73.317372) (xy 136.797478 73.497478)
-				(xy 136.617372 73.738006)
+				(xy 137.043868 73.327597) (xy 137.044614 73.328723) (xy 137.323981 73.808595) (xy 137.325182 73.817468)
+				(xy 137.322143 73.822754) (xy 137.122754 74.022143) (xy 137.114481 74.02557) (xy 137.108595 74.023981)
+				(xy 136.628723 73.744614) (xy 136.623298 73.73749) (xy 136.624499 73.728616) (xy 136.625234 73.727505)
+				(xy 136.796476 73.498815) (xy 136.798815 73.496476) (xy 137.027492 73.325244) (xy 137.036167 73.323029)
 			)
 		)
 	)
@@ -114197,8 +114449,15 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.1 76.5) (xy 138.3 76.5) (xy 138.3 76.3) (xy 138.7 76.2) (xy 138.2 73.499) (xy 137.7 76.2)
-				(xy 138.1 76.3)
+				(xy 138.206606 73.554738) (xy 138.211679 73.562117) (xy 138.21174 73.562421) (xy 138.697574 76.186897)
+				(xy 138.697512 76.191464) (xy 138.697097 76.193413) (xy 138.692326 76.200587) (xy 138.69109 76.201445)
+				(xy 138.687256 76.203185) (xy 138.3 76.3) (xy 138.3 76.485972) (xy 138.299109 76.490451) (xy 138.298427 76.492097)
+				(xy 138.292099 76.498426) (xy 138.292097 76.498427) (xy 138.290452 76.499108) (xy 138.285973 76.5)
+				(xy 138.114027 76.5) (xy 138.10955 76.499109) (xy 138.107901 76.498426) (xy 138.101572 76.492095)
+				(xy 138.100889 76.490445) (xy 138.1 76.485972) (xy 138.1 76.3) (xy 137.712924 76.203231) (xy 137.708792 76.201277)
+				(xy 137.707193 76.200091) (xy 137.70265 76.192779) (xy 137.702382 76.191299) (xy 137.70239 76.187084)
+				(xy 137.702425 76.186897) (xy 138.188072 73.563433) (xy 138.189761 73.559197) (xy 138.190423 73.558179)
+				(xy 138.197801 73.553107)
 			)
 		)
 	)
@@ -115137,7 +115396,7 @@
 		(net "/Host MCU/HOST_DECR")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30373)
+		(priority 30616)
 		(attr
 			(teardrop
 				(type padvia)
@@ -115159,8 +115418,18 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.375487 76.934065) (xy 141.234065 77.075487) (xy 141.409289 77.250711) (xy 141.48 77.28)
-				(xy 141.522852 77.373727) (xy 141.823195 77.18) (xy 141.522852 76.986575) (xy 141.48 77.08)
+				(xy 141.379462 76.942651) (xy 141.384499 76.946649) (xy 141.479976 77.079968) (xy 141.479999 77.079999)
+				(xy 141.48 77.08) (xy 141.516258 77.000948) (xy 141.518933 76.997254) (xy 141.520237 76.996044)
+				(xy 141.528626 76.992928) (xy 141.529764 76.99297) (xy 141.53566 76.994824) (xy 141.805976 77.16891)
+				(xy 141.809256 77.172081) (xy 141.810271 77.173546) (xy 141.812167 77.182297) (xy 141.812166 77.182305)
+				(xy 141.812085 77.18275) (xy 141.808847 77.188928) (xy 141.808817 77.188958) (xy 141.806886 77.190517)
+				(xy 141.536169 77.365135) (xy 141.531928 77.366813) (xy 141.530175 77.367133) (xy 141.521421 77.365247)
+				(xy 141.521417 77.365245) (xy 141.520489 77.364603) (xy 141.516505 77.359846) (xy 141.48 77.28)
+				(xy 141.479999 77.279999) (xy 141.479997 77.279998) (xy 141.412505 77.252042) (xy 141.410484 77.250962)
+				(xy 141.408602 77.249705) (xy 141.406827 77.248249) (xy 141.243983 77.085405) (xy 141.241449 77.081615)
+				(xy 141.240765 77.079965) (xy 141.240763 77.071016) (xy 141.24145 77.069357) (xy 141.243981 77.06557)
+				(xy 141.36409 76.94546) (xy 141.367885 76.942925) (xy 141.368562 76.942645) (xy 141.369533 76.942244)
+				(xy 141.378479 76.942244)
 			)
 		)
 	)
@@ -115873,7 +116142,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 142.0022 77.080151) (xy 142.0022 77.280151) (xy 142.64375 77.325) (xy 142.901 77.180151) (xy 142.425 76.742651)
+				(xy 142.429701 76.748214) (xy 142.430684 76.748662) (xy 142.433753 76.750696) (xy 142.887421 77.167671)
+				(xy 142.890115 77.171357) (xy 142.890866 77.172974) (xy 142.891243 77.181921) (xy 142.891242 77.181924)
+				(xy 142.891011 77.182555) (xy 142.885764 77.188728) (xy 142.648302 77.322436) (xy 142.645132 77.323655)
+				(xy 142.641926 77.324377) (xy 142.63854 77.324635) (xy 142.015405 77.281073) (xy 142.010998 77.27987)
+				(xy 142.009192 77.278969) (xy 142.003455 77.272596) (xy 142.00294 77.271218) (xy 142.0022 77.267122)
+				(xy 142.0022 77.088108) (xy 142.003089 77.083633) (xy 142.004532 77.080151) (xy 142.008039 77.075488)
+				(xy 142.415349 76.750353) (xy 142.419399 76.748259) (xy 142.421615 76.74762)
 			)
 		)
 	)
@@ -117079,7 +117354,7 @@
 		(net "/Host MCU/HOST_ANT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30423)
+		(priority 30641)
 		(attr
 			(teardrop
 				(type padvia)
@@ -117101,8 +117376,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.87825 77.822933) (xy 137.72175 77.822933) (xy 137.607612 78.084665) (xy 137.8 78.253933)
-				(xy 137.992388 78.084665)
+				(xy 137.872736 77.823822) (xy 137.875578 77.825) (xy 137.881826 77.831132) (xy 137.988045 78.074709)
+				(xy 137.989018 78.07917) (xy 137.98907 78.081981) (xy 137.986955 78.088909) (xy 137.986782 78.089156)
+				(xy 137.984927 78.091228) (xy 137.809475 78.245595) (xy 137.805526 78.247884) (xy 137.803431 78.248599)
+				(xy 137.795181 78.248338) (xy 137.794066 78.247876) (xy 137.790817 78.245852) (xy 137.615767 78.09184)
+				(xy 137.612993 78.088213) (xy 137.611751 78.085683) (xy 137.61073 78.078507) (xy 137.610781 78.078214)
+				(xy 137.611579 78.075565) (xy 137.717757 77.832087) (xy 137.720363 77.82834) (xy 137.72258 77.826204)
+				(xy 137.730696 77.822933) (xy 137.868261 77.822933)
 			)
 		)
 	)
@@ -118124,7 +118404,7 @@
 		(net "/Host MCU/HOST_DECR")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30321)
+		(priority 30423)
 		(attr
 			(teardrop
 				(type padvia)
@@ -118146,8 +118426,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 142.412195 77.280151) (xy 142.412195 77.080151) (xy 142.045771 76.910808) (xy 141.821195 77.180151)
-				(xy 142.045771 77.449494)
+				(xy 142.0524 76.914309) (xy 142.055308 76.915215) (xy 142.403291 77.076036) (xy 142.406981 77.078722)
+				(xy 142.409094 77.081012) (xy 142.412195 77.088946) (xy 142.412195 77.27034) (xy 142.411303 77.27482)
+				(xy 142.41011 77.277698) (xy 142.40421 77.283839) (xy 142.056029 77.444752) (xy 142.051592 77.445822)
+				(xy 142.048936 77.445929) (xy 142.041724 77.4438) (xy 142.041277 77.443485) (xy 142.039038 77.44142)
+				(xy 141.828932 77.18943) (xy 141.826748 77.185419) (xy 141.826037 77.183138) (xy 141.826393 77.175189)
+				(xy 141.826758 77.174308) (xy 141.828578 77.171294) (xy 142.038537 76.919482) (xy 142.042084 76.916617)
+				(xy 142.044438 76.915383) (xy 142.051866 76.914217)
 			)
 		)
 	)
@@ -118843,7 +119128,7 @@
 		(net "/Host MCU/HOST_XC1")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30642)
+		(priority 30728)
 		(attr
 			(teardrop
 				(type padvia)
@@ -118865,8 +119150,12 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.533996 76.604707) (xy 139.604707 76.533996) (xy 139.535355 76.464645) (xy 139.5 76.45) (xy 139.455557 76.416853)
-				(xy 139.397079 76.5) (xy 139.455557 76.583147) (xy 139.5 76.55)
+				(xy 139.464937 76.423854) (xy 139.465165 76.424019) (xy 139.5 76.45) (xy 139.532859 76.463611) (xy 139.533204 76.463754)
+				(xy 139.537 76.46629) (xy 139.596433 76.525723) (xy 139.59986 76.533996) (xy 139.596433 76.542269)
+				(xy 139.544423 76.594279) (xy 139.53615 76.597706) (xy 139.527877 76.594279) (xy 139.526212 76.592181)
+				(xy 139.5 76.55) (xy 139.4652 76.575954) (xy 139.456519 76.578153) (xy 139.448826 76.57357) (xy 139.448661 76.573342)
+				(xy 139.401811 76.506728) (xy 139.399856 76.497992) (xy 139.40181 76.493272) (xy 139.448636 76.426692)
+				(xy 139.456198 76.421898)
 			)
 		)
 	)
@@ -119941,7 +120230,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30320)
+		(priority 30405)
 		(attr
 			(teardrop
 				(type padvia)
@@ -119962,7 +120251,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.902567 77.88) (xy 141.902567 78.08) (xy 142.385195 78.277164) (xy 142.503567 77.98) (xy 142.385195 77.722836)
+				(xy 142.379788 77.726409) (xy 142.387312 77.729968) (xy 142.387771 77.730445) (xy 142.388183 77.730874)
+				(xy 142.390372 77.734086) (xy 142.500494 77.973327) (xy 142.501557 77.977766) (xy 142.501718 77.981919)
+				(xy 142.500896 77.986702) (xy 142.390423 78.264036) (xy 142.387938 78.267867) (xy 142.386695 78.269144)
+				(xy 142.378469 78.272682) (xy 142.378467 78.272682) (xy 142.376737 78.272705) (xy 142.372156 78.271837)
+				(xy 141.911996 78.083851) (xy 141.908187 78.081332) (xy 141.906033 78.079198) (xy 141.902567 78.070941)
+				(xy 141.902567 77.890821) (xy 141.903457 77.886346) (xy 141.903739 77.885663) (xy 141.90454 77.88373)
+				(xy 141.909231 77.878234) (xy 141.909471 77.878087) (xy 141.91195 77.876943) (xy 142.373086 77.726778)
+				(xy 142.377611 77.726239)
 			)
 		)
 	)
@@ -120352,6 +120648,38 @@
 		)
 	)
 	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30309)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 138.397433 72.65) (xy 138.397433 72.35) (xy 137.839158 72.202567) (xy 137.796433 72.5) (xy 137.839158 72.797433)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 137.851843 72.205916) (xy 138.38872 72.347699) (xy 138.395844 72.353125) (xy 138.397433 72.359011)
+				(xy 138.397433 72.640988) (xy 138.394006 72.649261) (xy 138.38872 72.6523) (xy 137.851858 72.794079)
+				(xy 137.842985 72.792878) (xy 137.837559 72.785754) (xy 137.83729 72.784431) (xy 137.796672 72.501664)
+				(xy 137.796672 72.498336) (xy 137.83729 72.215568) (xy 137.841858 72.207867) (xy 137.850535 72.205651)
+			)
+		)
+	)
+	(zone
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
@@ -120573,7 +120901,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30431)
+		(priority 30646)
 		(attr
 			(teardrop
 				(type padvia)
@@ -120594,7 +120922,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 140.02 77.805325) (xy 139.82 77.805325) (xy 139.72 78.014598) (xy 139.92 78.206325) (xy 140.113143 78.067057)
+				(xy 140.013896 77.806216) (xy 140.01659 77.807332) (xy 140.022002 77.81189) (xy 140.022069 77.811996)
+				(xy 140.023202 77.814324) (xy 140.096558 78.020453) (xy 140.109417 78.056588) (xy 140.110079 78.061104)
+				(xy 140.109941 78.063825) (xy 140.107246 78.07072) (xy 140.106967 78.071055) (xy 140.10482 78.073057)
+				(xy 139.929794 78.199262) (xy 139.925641 78.201158) (xy 139.923309 78.201709) (xy 139.915407 78.200798)
+				(xy 139.915059 78.200625) (xy 139.914562 78.200377) (xy 139.911683 78.198352) (xy 139.780082 78.072194)
+				(xy 139.727788 78.022063) (xy 139.725173 78.018322) (xy 139.724031 78.015722) (xy 139.723307 78.008547)
+				(xy 139.723361 78.008297) (xy 139.724238 78.005726) (xy 139.815816 77.814078) (xy 139.818548 77.810425)
+				(xy 139.820885 77.808323) (xy 139.828707 77.805325) (xy 140.009418 77.805325)
 			)
 		)
 	)
@@ -120802,8 +121137,16 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.5 70.5) (xy 138.3 70.5) (xy 138.3 70.7) (xy 137.9 70.8) (xy 138.4 73.501) (xy 138.9 70.8)
-				(xy 138.5 70.7)
+				(xy 138.490448 70.50089) (xy 138.491281 70.501234) (xy 138.492093 70.501571) (xy 138.498425 70.507899)
+				(xy 138.498427 70.507902) (xy 138.499109 70.509548) (xy 138.5 70.514027) (xy 138.5 70.699999) (xy 138.5 70.7)
+				(xy 138.887078 70.796769) (xy 138.891204 70.79872) (xy 138.891872 70.799215) (xy 138.892804 70.799906)
+				(xy 138.897348 70.807222) (xy 138.897616 70.808704) (xy 138.897608 70.812916) (xy 138.411928 73.436562)
+				(xy 138.410236 73.440803) (xy 138.409577 73.441818) (xy 138.402198 73.446891) (xy 138.393393 73.44526)
+				(xy 138.38832 73.437881) (xy 138.388265 73.437611) (xy 138.283519 72.87177) (xy 137.902424 70.813096)
+				(xy 137.902486 70.808531) (xy 137.902901 70.806583) (xy 137.90767 70.799411) (xy 137.908908 70.798552)
+				(xy 137.912736 70.796815) (xy 138.3 70.7) (xy 138.3 70.514027) (xy 138.300889 70.509554) (xy 138.300923 70.509469)
+				(xy 138.301571 70.507906) (xy 138.307896 70.501575) (xy 138.309469 70.500923) (xy 138.309554 70.500889)
+				(xy 138.314027 70.5) (xy 138.485973 70.5)
 			)
 		)
 	)
@@ -121221,7 +121564,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30316)
+		(priority 30331)
 		(attr
 			(teardrop
 				(type padvia)
@@ -121242,7 +121585,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.08 78.099089) (xy 139.48 78.099089) (xy 139.539637 77.70672) (xy 139.28 77.498089) (xy 139.020363 77.501979)
+				(xy 139.277718 77.498817) (xy 139.281357 77.500068) (xy 139.284882 77.502012) (xy 139.532572 77.701043)
+				(xy 139.535504 77.704542) (xy 139.537097 77.70745) (xy 139.538403 77.714829) (xy 139.48186 78.086845)
+				(xy 139.480307 78.091138) (xy 139.479122 78.093099) (xy 139.472762 78.098163) (xy 139.471724 78.098504)
+				(xy 139.468071 78.099089) (xy 139.092917 78.099089) (xy 139.08844 78.098198) (xy 139.086482 78.097387)
+				(xy 139.080387 78.091588) (xy 139.079814 78.090379) (xy 139.078747 78.086539) (xy 139.021859 77.516963)
+				(xy 139.022299 77.512423) (xy 139.022815 77.510713) (xy 139.028486 77.503785) (xy 139.029682 77.503144)
+				(xy 139.03503 77.501758) (xy 139.273742 77.498182)
 			)
 		)
 	)
@@ -121457,7 +121806,7 @@
 		(net "/Host MCU/HOST_DECN")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30374)
+		(priority 30619)
 		(attr
 			(teardrop
 				(type padvia)
@@ -121479,8 +121828,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 140.792986 74.75) (xy 140.792986 74.95) (xy 140.852433 74.920711) (xy 140.956202 75.1659) (xy 141.15573 75.082586)
-				(xy 141.206687 74.8507) (xy 140.993855 74.779289) (xy 140.923144 74.75)
+				(xy 140.925295 74.750891) (xy 140.99384 74.779283) (xy 140.993847 74.779286) (xy 140.99385 74.779287)
+				(xy 140.993855 74.779289) (xy 141.196727 74.847358) (xy 141.20348 74.853238) (xy 141.204432 74.860961)
+				(xy 141.157035 75.076643) (xy 141.151913 75.083988) (xy 141.150116 75.084929) (xy 140.966946 75.161413)
+				(xy 140.957991 75.161438) (xy 140.951663 75.155176) (xy 140.921535 75.083988) (xy 140.852433 74.920711)
+				(xy 140.852432 74.920711) (xy 140.852432 74.92071) (xy 140.809857 74.941687) (xy 140.800921 74.94227)
+				(xy 140.794191 74.936363) (xy 140.792986 74.931192) (xy 140.792986 74.7617) (xy 140.796413 74.753427)
+				(xy 140.804686 74.75) (xy 140.920818 74.75)
 			)
 		)
 	)
@@ -123151,7 +123505,7 @@
 		(net "/Host MCU/HOST_DECR")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30322)
+		(priority 30428)
 		(attr
 			(teardrop
 				(type padvia)
@@ -123173,8 +123527,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 141.4027 77.244121) (xy 141.544121 77.1027) (xy 141.395855 76.760644) (xy 141.04844 76.74844)
-				(xy 140.887868 76.923079)
+				(xy 141.386146 76.760302) (xy 141.390588 76.76135) (xy 141.393441 76.762651) (xy 141.399322 76.768643)
+				(xy 141.54003 77.093265) (xy 141.540993 77.097724) (xy 141.541043 77.100734) (xy 141.537754 77.109063)
+				(xy 141.537618 77.109201) (xy 141.410919 77.2359) (xy 141.407124 77.238436) (xy 141.404773 77.23941)
+				(xy 141.39707 77.239848) (xy 141.396383 77.239651) (xy 141.393417 77.238332) (xy 140.90181 76.931773)
+				(xy 140.898483 76.928649) (xy 140.897444 76.927196) (xy 140.895424 76.918475) (xy 140.895588 76.917491)
+				(xy 140.898514 76.911498) (xy 141.043223 76.754111) (xy 141.046902 76.751423) (xy 141.050449 76.749776)
+				(xy 141.055779 76.748697)
 			)
 		)
 	)
@@ -123579,7 +123938,7 @@
 		(net "+VDDIO")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30405)
+		(priority 30628)
 		(attr
 			(teardrop
 				(type padvia)
@@ -123600,7 +123959,14 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 140.320755 78.3) (xy 140.320755 78.1) (xy 140.059023 78.012937) (xy 139.889755 78.2) (xy 140.059023 78.397713)
+				(xy 140.31054 78.096601) (xy 140.314507 78.09886) (xy 140.31666 78.100725) (xy 140.320384 78.106869)
+				(xy 140.320439 78.107101) (xy 140.320755 78.1098) (xy 140.320755 78.289551) (xy 140.319864 78.29403)
+				(xy 140.318729 78.296769) (xy 140.314258 78.302125) (xy 140.314213 78.302154) (xy 140.311967 78.30328)
+				(xy 140.068865 78.394037) (xy 140.06436 78.394769) (xy 140.061416 78.394665) (xy 140.054832 78.392349)
+				(xy 140.054759 78.392294) (xy 140.052874 78.390531) (xy 139.977799 78.30284) (xy 139.897964 78.209588)
+				(xy 139.89573 78.20561) (xy 139.895043 78.203502) (xy 139.89542 78.195254) (xy 139.895895 78.19415)
+				(xy 139.897967 78.190924) (xy 140.052341 78.020321) (xy 140.056002 78.017599) (xy 140.058786 78.01628)
+				(xy 140.067486 78.015752)
 			)
 		)
 	)
@@ -123777,6 +124143,71 @@
 				(xy 138.29819 67.784741) (xy 138.300719 67.780762) (xy 138.5 67.575) (xy 138.557251 67.436784) (xy 138.558324 67.434775)
 				(xy 138.559583 67.43289) (xy 138.56103 67.431126) (xy 138.748661 67.243496) (xy 138.752448 67.240965)
 				(xy 138.754102 67.240279) (xy 138.763051 67.240279)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30310)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 138.202567 72.35) (xy 138.202567 72.65) (xy 138.760842 72.797433) (xy 138.803567 72.5) (xy 138.760842 72.202567)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.757014 72.207121) (xy 138.76244 72.214245) (xy 138.762709 72.215568) (xy 138.803327 72.498336)
+				(xy 138.803327 72.501664) (xy 138.762709 72.784431) (xy 138.758141 72.792132) (xy 138.749464 72.794348)
+				(xy 138.748143 72.794079) (xy 138.671223 72.773766) (xy 138.21128 72.6523) (xy 138.204156 72.646874)
+				(xy 138.202567 72.640988) (xy 138.202567 72.359011) (xy 138.205994 72.350738) (xy 138.21128 72.347699)
+				(xy 138.748143 72.20592)
+			)
+		)
+	)
+	(zone
+		(net "GND")
+		(layer "F.Cu")
+		(hatch none 0.1)
+		(priority 30311)
+		(attr
+			(teardrop
+				(type padvia)
+			)
+		)
+		(connect_pads yes
+			(clearance 0)
+		)
+		(min_thickness 0.0254)
+		(fill yes
+			(island_removal_mode 1)
+		)
+		(polygon
+			(pts
+				(xy 139.397433 72.65) (xy 139.397433 72.35) (xy 138.839158 72.202567) (xy 138.796433 72.5) (xy 138.839158 72.797433)
+			)
+		)
+		(filled_polygon
+			(layer "F.Cu")
+			(pts
+				(xy 138.851843 72.205916) (xy 139.38872 72.347699) (xy 139.395844 72.353125) (xy 139.397433 72.359011)
+				(xy 139.397433 72.640988) (xy 139.394006 72.649261) (xy 139.38872 72.6523) (xy 138.851858 72.794079)
+				(xy 138.842985 72.792878) (xy 138.837559 72.785754) (xy 138.83729 72.784431) (xy 138.796672 72.501664)
+				(xy 138.796672 72.498336) (xy 138.83729 72.215568) (xy 138.841858 72.207867) (xy 138.850535 72.205651)
 			)
 		)
 	)
@@ -124125,7 +124556,7 @@
 		(net "/Host MCU/HOST_ANT")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30616)
+		(priority 30679)
 		(attr
 			(teardrop
 				(type padvia)
@@ -124146,7 +124577,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 137.87825 77.186956) (xy 137.72175 77.186956) (xy 137.6 77.390474) (xy 137.8 77.587956) (xy 137.970078 77.448688)
+				(xy 137.872103 77.187845) (xy 137.874787 77.188957) (xy 137.880203 77.193522) (xy 137.88029 77.19366)
+				(xy 137.881431 77.196023) (xy 137.966594 77.438759) (xy 137.967236 77.443278) (xy 137.967074 77.446209)
+				(xy 137.964596 77.452786) (xy 137.964534 77.452865) (xy 137.962742 77.454694) (xy 137.809944 77.579811)
+				(xy 137.805916 77.581959) (xy 137.803867 77.582578) (xy 137.79551 77.581969) (xy 137.794328 77.581414)
+				(xy 137.79108 77.579148) (xy 137.60819 77.39856) (xy 137.605631 77.394782) (xy 137.604626 77.392399)
+				(xy 137.604116 77.384783) (xy 137.604288 77.38415) (xy 137.605537 77.381216) (xy 137.71715 77.194644)
+				(xy 137.720214 77.191259) (xy 137.722905 77.189261) (xy 137.729878 77.186956) (xy 137.867629 77.186956)
 			)
 		)
 	)
@@ -124258,7 +124695,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30318)
+		(priority 30373)
 		(attr
 			(teardrop
 				(type padvia)
@@ -124279,7 +124716,13 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 139.320634 75.45) (xy 139.320634 75.15) (xy 138.760842 75.202567) (xy 138.719634 75.3) (xy 138.982628 75.738006)
+				(xy 139.31006 75.151885) (xy 139.311765 75.152411) (xy 139.318659 75.158118) (xy 139.319275 75.159282)
+				(xy 139.320634 75.164755) (xy 139.320634 75.442269) (xy 139.319743 75.446747) (xy 139.318253 75.450344)
+				(xy 139.315032 75.454772) (xy 138.994909 75.72754) (xy 138.990924 75.729765) (xy 138.989228 75.730314)
+				(xy 138.980303 75.729602) (xy 138.979357 75.729118) (xy 138.974653 75.724725) (xy 138.811802 75.453503)
+				(xy 138.723892 75.307093) (xy 138.722351 75.302793) (xy 138.72182 75.299227) (xy 138.722616 75.292947)
+				(xy 138.757212 75.211147) (xy 138.759774 75.207372) (xy 138.762088 75.205093) (xy 138.7692 75.201781)
+				(xy 139.305526 75.151418)
 			)
 		)
 	)
@@ -124421,7 +124864,7 @@
 		(net "GND")
 		(layer "F.Cu")
 		(hatch none 0.1)
-		(priority 30503)
+		(priority 30647)
 		(attr
 			(teardrop
 				(type padvia)
@@ -124444,9 +124887,17 @@
 		(filled_polygon
 			(layer "F.Cu")
 			(pts
-				(xy 138.461314 77.119894) (xy 138.319894 77.261314) (xy 138.328699 77.270121) (xy 138.29941 77.19941)
-				(xy 138.19941 77.407939) (xy 138.39941 77.587956) (xy 138.59941 77.432721) (xy 138.49941 77.19941)
-				(xy 138.470121 77.128699)
+				(xy 138.465808 77.127251) (xy 138.472143 77.13358) (xy 138.472144 77.133585) (xy 138.499354 77.199278)
+				(xy 138.499373 77.199324) (xy 138.499382 77.199344) (xy 138.555449 77.330155) (xy 138.594931 77.422272)
+				(xy 138.595876 77.426739) (xy 138.595908 77.429372) (xy 138.593554 77.436553) (xy 138.593206 77.437015)
+				(xy 138.591035 77.439219) (xy 138.408976 77.580529) (xy 138.404893 77.58257) (xy 138.402597 77.583199)
+				(xy 138.394637 77.582554) (xy 138.393763 77.582154) (xy 138.390805 77.580211) (xy 138.207648 77.415354)
+				(xy 138.204918 77.4117) (xy 138.203737 77.409227) (xy 138.202823 77.401904) (xy 138.202907 77.401481)
+				(xy 138.203826 77.398726) (xy 138.287074 77.225133) (xy 138.289814 77.221482) (xy 138.290856 77.220548)
+				(xy 138.299304 77.217577) (xy 138.307164 77.221219) (xy 138.307954 77.222054) (xy 138.310264 77.225617)
+				(xy 138.322649 77.255518) (xy 138.32305 77.257532) (xy 138.323456 77.25775) (xy 138.32354 77.257666)
+				(xy 138.32354 77.257667) (xy 138.450938 77.130268) (xy 138.454733 77.127733) (xy 138.45541 77.127453)
+				(xy 138.456381 77.127052) (xy 138.465327 77.127052)
 			)
 		)
 	)
@@ -136929,8 +137380,14 @@
 		(filled_polygon
 			(layer "In2.Cu")
 			(pts
-				(xy 141.270884 78.270537) (xy 141.129463 78.129116) (xy 141.133064 78.166936) (xy 140.745343 77.989772)
-				(xy 140.626971 78.266936) (xy 140.745343 78.5441) (xy 141.133064 78.366936) (xy 141.203775 78.337647)
+				(xy 140.755986 77.994639) (xy 140.756215 77.99474) (xy 141.133064 78.166936) (xy 141.133064 78.166935)
+				(xy 141.132547 78.161502) (xy 141.135174 78.152942) (xy 141.143085 78.148746) (xy 141.151645 78.151373)
+				(xy 141.152467 78.15212) (xy 141.262611 78.262264) (xy 141.266038 78.270537) (xy 141.262611 78.27881)
+				(xy 141.20542 78.336001) (xy 141.201624 78.338537) (xy 141.133089 78.366925) (xy 141.133073 78.366931)
+				(xy 141.133064 78.366936) (xy 140.930035 78.459707) (xy 140.756254 78.539114) (xy 140.747305 78.539435)
+				(xy 140.740749 78.533335) (xy 140.740631 78.533067) (xy 140.669679 78.366936) (xy 140.628932 78.271529)
+				(xy 140.628835 78.262577) (xy 140.628933 78.262341) (xy 140.66968 78.166935) (xy 140.740631 78.000803)
+				(xy 140.747032 77.994541)
 			)
 		)
 	)
