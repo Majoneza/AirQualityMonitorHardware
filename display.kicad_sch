@@ -5037,7 +5037,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 91.44 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 91.44 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5183,7 +5194,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 110.49 33.02 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 110.49 33.02 90)
 			(hide yes)
 			(show_name no)
@@ -5331,7 +5353,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 24.13 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 24.13 119.38 0)
 			(hide yes)
 			(show_name no)
@@ -5503,18 +5536,6 @@
 				)
 			)
 		)
-		(property "Height" "1.1"
-			(at 69.85 547.32 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "595-SN74LXC1T45DCKR"
 			(at 69.85 647.32 0)
 			(hide yes)
@@ -5563,7 +5584,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 45.72 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 45.72 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -5710,7 +5742,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 41.91 55.88 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 41.91 55.88 90)
 			(hide yes)
 			(show_name no)
@@ -5883,18 +5926,6 @@
 				)
 			)
 		)
-		(property "Height" "1.2"
-			(at 67.31 509.22 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "595-TXU0104PWR"
 			(at 67.31 609.22 0)
 			(hide yes)
@@ -5943,7 +5974,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 43.18 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 43.18 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -6127,7 +6169,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 24.13 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 24.13 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -6265,7 +6318,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 86.36 27.94 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 86.36 27.94 90)
 			(hide yes)
 			(show_name no)
@@ -6416,7 +6480,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 110.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 110.49 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6643,7 +6718,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 64.77 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 64.77 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6791,7 +6877,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 90.17 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 90.17 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6939,7 +7036,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 162.56 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 162.56 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7166,7 +7274,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 217.17 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 217.17 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -7204,7 +7323,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "737807f4-f31f-4d44-bf54-172e2b0dc8b1")
-		(property "Reference" "D4"
+		(property "Reference" "D5"
 			(at 73.66 65.0874 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7303,7 +7422,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 76.2 66.04 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 76.2 66.04 90)
 			(hide yes)
 			(show_name no)
@@ -7323,7 +7453,7 @@
 		(instances
 			(project "AirQualityMonitor"
 				(path "/530768d1-b5f4-44e1-bf4d-cc489780549f"
-					(reference "D4")
+					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -7597,7 +7727,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 124.46 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 124.46 127 0)
 			(hide yes)
 			(show_name no)
@@ -7635,7 +7776,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8ae1754e-16ac-4b0c-9bff-8a943e2bb448")
-		(property "Reference" "D2"
+		(property "Reference" "D3"
 			(at 52.07 85.4074 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7734,7 +7875,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 49.53 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 49.53 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -7754,7 +7906,7 @@
 		(instances
 			(project "AirQualityMonitor"
 				(path "/530768d1-b5f4-44e1-bf4d-cc489780549f"
-					(reference "D2")
+					(reference "D3")
 					(unit 1)
 				)
 			)
@@ -7882,7 +8034,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 95.25 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 95.25 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -8030,7 +8193,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 76.2 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 76.2 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -8256,7 +8430,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 34.29 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 34.29 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -8506,18 +8691,6 @@
 				)
 			)
 		)
-		(property "Height" "1.1"
-			(at 149.86 415.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "798-FH34SRJ24S05SH99"
 			(at 149.86 515.24 0)
 			(hide yes)
@@ -8566,7 +8739,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 128.27 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 128.27 20.32 0)
 			(hide yes)
 			(show_name no)
@@ -8864,7 +9048,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 49.53 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 49.53 68.58 0)
 			(hide yes)
 			(show_name no)
@@ -9091,7 +9286,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 120.65 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 120.65 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -9228,7 +9434,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 124.46 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 124.46 114.3 0)
 			(hide yes)
 			(show_name no)
@@ -9401,18 +9618,6 @@
 				)
 			)
 		)
-		(property "Height" ""
-			(at 207.01 422.86 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "757-TCK107AFLF"
 			(at 207.01 522.86 0)
 			(hide yes)
@@ -9461,7 +9666,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 180.34 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 180.34 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -9618,7 +9834,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 100.33 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 100.33 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -10082,7 +10309,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 97.79 157.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 97.79 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -10277,7 +10515,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ec006281-569f-4650-9426-4172837ebd7c")
-		(property "Reference" "D3"
+		(property "Reference" "D4"
 			(at 56.8325 72.39 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10374,7 +10612,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 57.15 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 57.15 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -10394,7 +10643,7 @@
 		(instances
 			(project "AirQualityMonitor"
 				(path "/530768d1-b5f4-44e1-bf4d-cc489780549f"
-					(reference "D3")
+					(reference "D4")
 					(unit 1)
 				)
 			)
@@ -10522,7 +10771,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 21.59 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 21.59 68.58 0)
 			(hide yes)
 			(show_name no)

@@ -2316,6 +2316,207 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:LED"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "D"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "LED"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Light emitting diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Sim.Pins" "1=K 2=A"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "LED diode"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "LED* LED_SMD:* LED_THT:*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "LED_0_1"
+				(polyline
+					(pts
+						(xy -3.048 -0.762) (xy -4.572 -2.286) (xy -3.81 -2.286) (xy -4.572 -2.286) (xy -4.572 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.778 -0.762) (xy -3.302 -2.286) (xy -2.54 -2.286) (xy -3.302 -2.286) (xy -3.302 -1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 -1.27) (xy -1.27 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.27) (xy 1.27 1.27) (xy -1.27 0) (xy 1.27 -1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "LED_1_1"
+				(pin passive line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:R_US"
 			(pin_numbers
 				(hide yes)
@@ -3977,268 +4178,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SML-D12U1WT86:SML-D12U1WT86"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LED"
-				(at 12.7 8.89 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Value" "SML-D12U1WT86"
-				(at 12.7 6.35 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Footprint" "LEDC1608X65N"
-				(at 12.7 -93.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/SML-D12U1WT86.pdf"
-				(at 12.7 -193.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Description" "Standard LEDs - SMD Red 620nm 63mcd Vf 2.2V Pd 54mW"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" "0.65"
-				(at 12.7 -393.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Mouser Part Number" "755-SML-D12U1WT86"
-				(at 12.7 -493.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SML-D12U1WT86?qs=M3jcYzEJUdEySuGkbjHEtQ%3D%3D"
-				(at 12.7 -593.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Manufacturer_Name" "ROHM Semiconductor"
-				(at 12.7 -693.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SML-D12U1WT86"
-				(at 12.7 -793.65 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left bottom)
-				)
-			)
-			(symbol "SML-D12U1WT86_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 2.54) (xy 5.08 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 0) (xy 10.16 2.54) (xy 10.16 -2.54) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.334 4.318) (xy 4.572 3.556) (xy 3.81 5.08) (xy 5.334 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 6.35 2.54) (xy 3.81 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.874 4.318) (xy 7.112 3.556) (xy 6.35 5.08) (xy 7.874 4.318)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 8.89 2.54) (xy 6.35 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 10.16 0) (xy 12.7 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 15.24 0 180)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SMT-1341-T-HT-2:SMT-1341-T-HT-2"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -5050,8 +4989,8 @@
 	)
 	(text_box "Status LED"
 		(exclude_from_sim no)
-		(at 147.32 130.81 0)
-		(size 52.07 34.29)
+		(at 147.32 134.62 0)
+		(size 52.07 30.48)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -5426,7 +5365,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 158.75) (xy 177.8 161.29)
+			(xy 177.8 156.21) (xy 177.8 161.29)
 		)
 		(stroke
 			(width 0)
@@ -6136,7 +6075,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 143.51) (xy 177.8 140.97)
+			(xy 177.8 148.59) (xy 177.8 144.78)
 		)
 		(stroke
 			(width 0)
@@ -6416,7 +6355,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 140.97) (xy 173.99 140.97)
+			(xy 177.8 144.78) (xy 173.99 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7056,7 +6995,7 @@
 	)
 	(wire
 		(pts
-			(xy 162.56 140.97) (xy 166.37 140.97)
+			(xy 162.56 144.78) (xy 166.37 144.78)
 		)
 		(stroke
 			(width 0)
@@ -7514,7 +7453,7 @@
 	)
 	(global_label "LED_STATUS"
 		(shape input)
-		(at 162.56 140.97 180)
+		(at 162.56 144.78 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7523,7 +7462,7 @@
 		)
 		(uuid "31ecd71c-f5f6-4476-a78e-73d5c642eff5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 162.56 140.97 0)
+			(at 162.56 144.78 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8183,7 +8122,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 151.13 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 151.13 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -8354,7 +8304,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 93.98 76.2 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 93.98 76.2 0)
 			(hide yes)
 			(show_name no)
@@ -8485,7 +8446,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 152.4 73.66 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 152.4 73.66 90)
 			(hide yes)
 			(show_name no)
@@ -8632,7 +8604,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 64.77 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 64.77 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -8769,7 +8752,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 256.54 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 256.54 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -8918,7 +8912,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 35.56 133.35 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 35.56 133.35 90)
 			(hide yes)
 			(show_name no)
@@ -9013,18 +9018,6 @@
 				)
 			)
 		)
-		(property "Height" ""
-			(at 251.46 515.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "755-RUM001L02T2CL"
 			(at 251.46 615.57 0)
 			(hide yes)
@@ -9073,7 +9066,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 240.03 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 240.03 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -9224,7 +9228,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 129.54 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 129.54 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -9361,7 +9376,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 49.53 90.17 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 49.53 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -9630,18 +9656,6 @@
 				)
 			)
 		)
-		(property "Height" "2.5"
-			(at 261.62 502.87 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "665-SMT-1341-T-HT-2"
 			(at 261.62 602.87 0)
 			(hide yes)
@@ -9690,7 +9704,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 250.19 100.33 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 250.19 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -9905,7 +9930,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 256.54 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 256.54 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -10215,7 +10251,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 147.32 173.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 147.32 173.99 0)
 			(hide yes)
 			(show_name no)
@@ -10311,7 +10358,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 97.79 82.55 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 97.79 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -10600,7 +10658,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 71.12 72.39 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 71.12 72.39 90)
 			(hide yes)
 			(show_name no)
@@ -10737,7 +10806,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 78.74 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 78.74 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -10883,7 +10963,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 151.13 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 151.13 90)
 			(hide yes)
 			(show_name no)
@@ -11017,7 +11108,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 35.56 128.27 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 35.56 128.27 90)
 			(hide yes)
 			(show_name no)
@@ -11469,7 +11571,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 85.09 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 85.09 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -11616,7 +11729,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 113.03 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 113.03 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -11750,7 +11874,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 152.4 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 152.4 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -11884,7 +12019,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 148.59 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 148.59 90)
 			(hide yes)
 			(show_name no)
@@ -12019,7 +12165,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 232.41 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 232.41 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -12046,8 +12203,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SML-D12U1WT86:SML-D12U1WT86")
-		(at 177.8 158.75 90)
+		(lib_id "Device:LED")
+		(at 177.8 152.4 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12057,8 +12214,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "772fb488-2757-4aca-989a-b382b0fe7f28")
-		(property "Reference" "LED1"
-			(at 181.61 149.8599 90)
+		(property "Reference" "D2"
+			(at 181.61 152.7174 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12068,8 +12225,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "SML-D12U1WT86"
-			(at 181.61 152.3999 90)
+		(property "Value" "APHD1608LSURCK"
+			(at 181.61 155.2574 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12079,8 +12236,41 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "SML-D12U1WT86:LEDC1608X65N"
-			(at 271.45 146.05 0)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 177.8 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/3/308/1/APHD1608LSURCK.pdf"
+			(at 177.8 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 177.8 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "604-APHD1608LSURCK"
+			(at 671.45 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12091,8 +12281,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://componentsearchengine.com/Datasheets/1/SML-D12U1WT86.pdf"
-			(at 371.45 146.05 0)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/en/ProductDetail/Kingbright/APHD1608LSURCK?qs=AQlKX63v8RvwTLDG%2F6aYFA%3D%3D"
+			(at 771.45 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12103,19 +12293,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Description" "Standard LEDs - SMD Red 620nm 63mcd Vf 2.2V Pd 54mW"
-			(at 177.8 158.75 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Height" "0.65"
-			(at 571.45 146.05 0)
+		(property "Manufacturer_Name" "Kingbright"
+			(at 871.45 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12126,8 +12305,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Mouser Part Number" "755-SML-D12U1WT86"
-			(at 671.45 146.05 0)
+		(property "Manufacturer_Part_Number" "APHD1608LSURCK"
+			(at 971.45 139.7 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12138,8 +12317,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/SML-D12U1WT86?qs=M3jcYzEJUdEySuGkbjHEtQ%3D%3D"
-			(at 771.45 146.05 0)
+		(property "KLC_S3.3" ""
+			(at 177.8 152.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12147,35 +12326,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left bottom)
 			)
 		)
-		(property "Manufacturer_Name" "ROHM Semiconductor"
-			(at 871.45 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Manufacturer_Part_Number" "SML-D12U1WT86"
-			(at 971.45 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 177.8 158.75 90)
+		(property "KLC_S4.1" ""
+			(at 177.8 152.4 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12194,7 +12348,7 @@
 		(instances
 			(project "AirQualityMonitor"
 				(path "/d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
-					(reference "LED1")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -12386,7 +12540,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 242.57 76.2 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 242.57 76.2 90)
 			(hide yes)
 			(show_name no)
@@ -12602,7 +12767,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 76.2 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 76.2 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12701,6 +12877,152 @@
 			(project "AirQualityMonitor"
 				(path "/d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
 					(reference "#PWR0131")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 170.18 144.78 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8aab50d0-4f74-4468-8b63-7d835185ad7e")
+		(property "Reference" "R30"
+			(at 170.18 138.43 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "50"
+			(at 170.18 140.97 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 170.434 143.764 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" "https://www.mouser.co.uk/datasheet/3/508/1/PYU_RC_GROUP_51_ROHS_L.pdf"
+			(at 170.18 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 170.18 144.78 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Name" "YAGEO"
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RC0402JR-0750RL"
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Part Number" "603-RC0402JR-0750RL"
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0402JR-0750RL?qs=tggtontpCXPi%2FU1qX4oZ0g%3D%3D"
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S3.3" ""
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
+			(at 170.18 144.78 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "35aa688a-be69-45b2-97fb-615c51e89685")
+		)
+		(pin "2"
+			(uuid "4a21208d-92f0-4169-8649-fcb6bf589a3a")
+		)
+		(instances
+			(project "AirQualityMonitor"
+				(path "/d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -12814,7 +13136,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 146.05 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -12948,7 +13281,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 153.67 90)
 			(hide yes)
 			(show_name no)
@@ -13093,7 +13437,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 123.19 173.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 123.19 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -13241,7 +13596,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 86.36 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 86.36 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -13375,7 +13741,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 35.56 130.81 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 35.56 130.81 90)
 			(hide yes)
 			(show_name no)
@@ -13509,7 +13886,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 242.57 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 242.57 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -13643,7 +14031,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 140.97 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 140.97 90)
 			(hide yes)
 			(show_name no)
@@ -13777,7 +14176,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 242.57 34.29 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 242.57 34.29 90)
 			(hide yes)
 			(show_name no)
@@ -14072,7 +14482,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 161.29 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 161.29 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -14228,7 +14649,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 100.33 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 100.33 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -14249,141 +14681,6 @@
 			(project "AirQualityMonitor"
 				(path "/d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
 					(reference "C55")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 170.18 140.97 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b36ca866-b1de-469f-98d5-974f6f08a2f6")
-		(property "Reference" "R30"
-			(at 170.18 134.62 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1.5k"
-			(at 170.18 137.16 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 170.434 139.954 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.mouser.com/catalog/specsheets/YAGEO_PYu_RC_Group_51_RoHS_L_12.pdf"
-			(at 170.18 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 170.18 140.97 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Name" "YAGEO"
-			(at 170.18 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer_Part_Number" "RC0402FR-7D1K5L"
-			(at 170.18 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Part Number" "603-RC0402FR-7D1K5L"
-			(at 170.18 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0402FR-7D1K5L?qs=sGAEpiMZZMtlubZbdhIBIAA5Rg%252BBqQHDXz2f67nC3TE%3D"
-			(at 170.18 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "LCSC Part #" ""
-			(at 170.18 140.97 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "99b1cf8f-60b3-41f0-8f40-55ec45d633fe")
-		)
-		(pin "1"
-			(uuid "7468e832-5978-49c7-a0d9-2f6f1c1aeb84")
-		)
-		(instances
-			(project "AirQualityMonitor"
-				(path "/d1d29ee4-51fd-401d-a2e4-2361ab4b76a9"
-					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -14457,18 +14754,6 @@
 				)
 			)
 		)
-		(property "Height" "1"
-			(at 152.4 434.29 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "262-BME690"
 			(at 152.4 534.29 0)
 			(hide yes)
@@ -14517,7 +14802,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 125.73 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 125.73 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -14669,7 +14965,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 151.13 96.52 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 151.13 96.52 90)
 			(hide yes)
 			(show_name no)
@@ -14814,7 +15121,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 123.19 176.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 123.19 176.53 90)
 			(hide yes)
 			(show_name no)
@@ -14951,7 +15269,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 238.76 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 238.76 124.46 0)
 			(hide yes)
 			(show_name no)
@@ -15166,7 +15495,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 163.83 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 163.83 73.66 0)
 			(hide yes)
 			(show_name no)
@@ -15402,7 +15742,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 137.16 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 137.16 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -15495,18 +15846,6 @@
 				)
 			)
 		)
-		(property "Height" "0.95"
-			(at 68.58 430.48 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "403-SGP41-D-R4"
 			(at 68.58 530.48 0)
 			(hide yes)
@@ -15555,7 +15894,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 41.91 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 41.91 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -15865,7 +16215,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 57.15 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 57.15 153.67 0)
 			(hide yes)
 			(show_name no)
@@ -16125,7 +16486,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 127 146.05 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 127 146.05 0)
 			(hide yes)
 			(show_name no)
@@ -16374,7 +16746,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 116.84 143.51 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 116.84 143.51 90)
 			(hide yes)
 			(show_name no)
@@ -16757,7 +17140,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 22.86 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 22.86 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -16929,18 +17323,6 @@
 				)
 			)
 		)
-		(property "Height" "1.35"
-			(at 52.07 579.07 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
 		(property "Mouser Part Number" "653-B3U-3100PM-B"
 			(at 52.07 679.07 0)
 			(hide yes)
@@ -16989,7 +17371,18 @@
 				(justify left top)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 20.32 184.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 20.32 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -17284,7 +17677,18 @@
 				)
 			)
 		)
-		(property "LCSC Part #" ""
+		(property "KLC_S3.3" ""
+			(at 242.57 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "KLC_S4.1" ""
 			(at 242.57 39.37 90)
 			(hide yes)
 			(show_name no)
