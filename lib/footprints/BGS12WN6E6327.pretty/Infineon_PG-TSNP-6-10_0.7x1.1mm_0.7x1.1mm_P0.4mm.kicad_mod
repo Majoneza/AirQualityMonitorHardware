@@ -1,0 +1,279 @@
+(footprint "Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "6 lead, 1.1x0.7mm body, 0.37mm height, TSNP (https://www.infineon.com/cms/en/product/packages/PG-TSNP/PG-TSNP-6-10/)")
+	(tags "PG-TSNP-6-10 TSNP")
+	(property "Reference" "REF**"
+		(at 0 -1.8 0)
+		(layer "F.SilkS")
+		(uuid "447a90ea-06da-4838-9d5a-fc8e6ecdf265")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm"
+		(at 0 1.2 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "c5c3c1cd-c27f-4858-a997-74d36d8051d5")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a98dd90f-4372-4ace-a99f-835d9f852960")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f01f05ca-24ce-4261-91cb-2c71dc9c4171")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.585 0.785)
+		(end -0.585 -0.585)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "ef555a36-8a54-4bfe-8143-fb848d4a5e3d")
+	)
+	(fp_line
+		(start -0.585 0.785)
+		(end 0.585 0.785)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "299b13b6-90c4-4c43-a373-dbfee8cec594")
+	)
+	(fp_line
+		(start -0.385 -0.785)
+		(end 0.585 -0.785)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "cbf6c0e2-3a7a-4087-8fa1-eb2942259e52")
+	)
+	(fp_line
+		(start 0.585 0.785)
+		(end 0.585 -0.785)
+		(stroke
+			(width 0.12)
+			(type default)
+		)
+		(layer "F.SilkS")
+		(uuid "f73f116e-a8cd-4e15-bc35-2e83d49d5f65")
+	)
+	(fp_poly
+		(pts
+			(xy -0.6 -0.8) (xy -0.96 -0.8) (xy -0.6 -1.16) (xy -0.6 -0.8)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "dabac144-a070-4c98-9ab4-0864f07e3c84")
+	)
+	(fp_rect
+		(start -0.6 -0.8)
+		(end 0.6 0.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "0d837cf9-9757-4a01-86bb-cab5e58f1d9f")
+	)
+	(fp_line
+		(start -0.35 -0.25)
+		(end -0.35 0.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "6d697d97-44b0-4ae5-b1a8-a237982377f0")
+	)
+	(fp_line
+		(start -0.35 -0.25)
+		(end -0.05 -0.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "0566b212-cf35-4029-8f46-afbf4069ee0d")
+	)
+	(fp_line
+		(start -0.35 0.55)
+		(end 0.35 0.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "8e4fde29-32dd-4326-b4df-5c062c774abf")
+	)
+	(fp_line
+		(start 0.35 -0.55)
+		(end -0.05 -0.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "b7558a3a-09b5-43a6-bd91-5a3b1fda74f0")
+	)
+	(fp_line
+		(start 0.35 0.55)
+		(end 0.35 -0.55)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(layer "F.Fab")
+		(uuid "8349b9a4-becf-4f1c-b1fd-32602eb1067f")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0.77 0 90)
+		(layer "F.Fab")
+		(uuid "c0074c92-5d68-4e9a-9cbe-cccc4976b806")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.075)
+			)
+		)
+	)
+	(pad "" smd circle
+		(at -0.2 -0.4)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "ef6b8829-38f6-4a37-8c27-e2b7bd1906f7")
+	)
+	(pad "" smd circle
+		(at -0.2 0)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "b7cbb8b0-1b38-43a3-acf2-dc3185e9cad5")
+	)
+	(pad "" smd circle
+		(at -0.2 0.4)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "83f92387-f72b-4bc9-a236-e75d74786956")
+	)
+	(pad "" smd circle
+		(at 0.2 -0.4)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "8c9eaae8-4bab-4e69-8fdd-991b709251e9")
+	)
+	(pad "" smd circle
+		(at 0.2 0)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "e39efc39-309c-4a33-8ac2-b09210a30122")
+	)
+	(pad "" smd circle
+		(at 0.2 0.4)
+		(size 0.25 0.25)
+		(layers "F.Paste")
+		(uuid "21cf537b-6880-49c2-bcfb-2a2825fa6452")
+	)
+	(pad "1" smd roundrect
+		(at -0.2 -0.4)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "019d6661-db46-45ae-a903-bf3b7ee41067")
+	)
+	(pad "2" smd roundrect
+		(at -0.2 0)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "ddce3750-530d-47e5-8dc8-29dbcdc96752")
+	)
+	(pad "3" smd roundrect
+		(at -0.2 0.4)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "94d744a7-c59c-4bd5-9d1d-fe38f72986a3")
+	)
+	(pad "4" smd roundrect
+		(at 0.2 0.4)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "c5c0bdf6-f1c7-44d9-a076-4c1a1113fb43")
+	)
+	(pad "5" smd roundrect
+		(at 0.2 0)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "1f02c810-0e57-44b1-9198-4c4208847ad7")
+	)
+	(pad "6" smd roundrect
+		(at 0.2 -0.4)
+		(size 0.25 0.25)
+		(layers "F.Cu" "F.Mask")
+		(roundrect_rratio 0.25)
+		(thermal_bridge_angle 45)
+		(uuid "f7cae81e-20e8-4455-a194-2bbfaa6d2073")
+	)
+	(embedded_fonts no)
+	(model "Infineon_PG-TSNP-6-10_0.7x1.1mm_0.7x1.1mm_P0.4mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

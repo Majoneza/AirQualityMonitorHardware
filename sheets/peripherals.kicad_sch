@@ -2706,6 +2706,147 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:Speaker"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "LS"
+				(at 1.27 5.715 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "Speaker"
+				(at 1.27 3.81 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 -5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at -0.254 -1.27 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Speaker"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "speaker sound"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Speaker_0_0"
+				(rectangle
+					(start -2.54 1.27)
+					(end 1.016 -3.81)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 1.27) (xy 3.556 3.81) (xy 3.556 -6.35) (xy 1.016 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Speaker_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Interface:PCA9306D"
 			(pin_names
 				(offset 1.016)
@@ -3587,333 +3728,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "RUM001L02T2CL:RUM001L02T2CL"
-			(pin_names
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "Q"
-				(at 11.43 3.81 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "RUM001L02T2CL"
-				(at 11.43 1.27 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "SOT723"
-				(at 11.43 -98.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rum001l02t2cl-e.pdf"
-				(at 11.43 -198.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Description" "1.2V Drive Nch MOSFET"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Height" ""
-				(at 11.43 -398.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Part Number" "755-RUM001L02T2CL"
-				(at 11.43 -498.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RUM001L02T2CL?qs=QcFhgjUTvvq561FHtbVAHA%3D%3D"
-				(at 11.43 -598.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Name" "ROHM Semiconductor"
-				(at 11.43 -698.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "RUM001L02T2CL"
-				(at 11.43 -798.73 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "RUM001L02T2CL_1_1"
-				(polyline
-					(pts
-						(xy 2.54 0) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 5.08) (xy 5.08 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 5.588) (xy 5.842 4.572)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.54) (xy 6.858 3.048) (xy 6.858 2.032) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 2.032) (xy 5.842 3.048)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 0) (xy 7.62 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.842 -0.508) (xy 5.842 0.508)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 6.35 2.54)
-					(radius 3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 5.842 5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 5.08) (xy 7.62 7.62)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 5.842 2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 2.54) (xy 7.62 -2.54)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 2.54)
-					(name "G"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 -5.08 90)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 7.62 10.16 270)
-					(length 2.54)
-					(name "D"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "SGP41-D-R4:SGP41-D-R4"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -4178,48 +3992,40 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SMT-1341-T-HT-2:SMT-1341-T-HT-2"
+		(symbol "Transistor_FET:Q_NMOS_GSD"
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "LS"
-				(at 11.43 0 0)
+			(property "Reference" "Q"
+				(at 5.08 1.905 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
-			(property "Value" "SMT-1341-T-HT-2"
-				(at 11.43 -2.54 0)
+			(property "Value" "Q_NMOS_GSD"
+				(at 5.08 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify left)
 				)
 			)
-			(property "Footprint" "SMT1341THT2"
-				(at 11.43 -102.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Datasheet" "https://puiaudio.com/product/transducers/SMT-1341-T-HT-2"
-				(at 11.43 -202.54 0)
+			(property "Footprint" ""
+				(at 5.08 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -4227,10 +4033,9 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Description" "Buzzers Transducer, Externally Driven Piezo 5 V 3mA 4.1kHz 85dB Surface Mount Solder Pads"
+			(property "Datasheet" ""
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -4241,8 +4046,8 @@
 					)
 				)
 			)
-			(property "Height" "2.5"
-				(at 11.43 -402.54 0)
+			(property "Description" "N-MOSFET transistor, gate/source/drain"
+				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -4250,11 +4055,10 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Mouser Part Number" ""
-				(at 11.43 -502.54 0)
+			(property "ki_keywords" "transistor NMOS N-MOS N-MOSFET"
+				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
@@ -4262,122 +4066,180 @@
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 				)
 			)
-			(property "Mouser Price/Stock" ""
-				(at 11.43 -602.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
+			(symbol "Q_NMOS_GSD_0_1"
+				(polyline
+					(pts
+						(xy 0.254 1.905) (xy 0.254 -1.905)
 					)
-					(justify left top)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.254 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 2.286) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 0.508) (xy 0.762 -0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.27) (xy 0.762 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.762 -1.778) (xy 3.302 -1.778) (xy 3.302 1.778) (xy 0.762 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 0) (xy 2.032 0.381) (xy 2.032 -0.381) (xy 1.016 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 1.651 0)
+					(radius 2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy 2.54 1.778)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.54 1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(circle
+					(center 2.54 -1.778)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 2.54 0) (xy 0.762 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.921 0.381) (xy 3.683 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 0.381) (xy 2.921 -0.254) (xy 3.683 -0.254) (xy 3.302 0.381)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
 				)
 			)
-			(property "Manufacturer_Name" "PUI Audio"
-				(at 11.43 -702.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Manufacturer_Part_Number" "SMT-1341-T-HT-2"
-				(at 11.43 -802.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(symbol "SMT-1341-T-HT-2_1_1"
-				(polyline
-					(pts
-						(xy 5.08 1.27) (xy 5.08 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 5.08 1.27) (xy 7.112 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 -3.81) (xy 5.08 -3.81)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.112 -3.81) (xy 9.652 -6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 9.652 3.81) (xy 7.112 1.27)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 9.652 3.81) (xy 9.652 -6.35)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "+"
+			(symbol "Q_NMOS_GSD_1_1"
+				(pin input line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "G"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4393,9 +4255,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "-"
+					(at 2.54 -5.08 90)
+					(length 2.54)
+					(name "S"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4403,6 +4265,24 @@
 						)
 					)
 					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 2.54 5.08 270)
+					(length 2.54)
+					(name "D"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4890,7 +4770,7 @@
 	(text_box "Buzzer"
 		(exclude_from_sim no)
 		(at 214.63 87.63 0)
-		(size 67.31 49.53)
+		(size 67.31 43.18)
 		(margins 0.9525 0.9525 0.9525 0.9525)
 		(stroke
 			(width 0)
@@ -5150,7 +5030,7 @@
 		(uuid "59fdbd4e-89a3-45c7-852f-8f24c2a3b76c")
 	)
 	(junction
-		(at 237.49 115.57)
+		(at 237.49 110.49)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "606913dd-9ab3-4f3c-905f-4a86ca71f3b1")
@@ -5252,7 +5132,7 @@
 		(uuid "c35ff5c1-fdb4-4549-8ae5-a79b3275e9f8")
 	)
 	(junction
-		(at 246.38 129.54)
+		(at 246.38 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c379f6ed-5fdb-4a24-b837-7354186b58a5")
@@ -5775,7 +5655,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 129.54) (xy 237.49 127)
+			(xy 237.49 124.46) (xy 237.49 121.92)
 		)
 		(stroke
 			(width 0)
@@ -6065,7 +5945,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 115.57) (xy 237.49 119.38)
+			(xy 237.49 110.49) (xy 237.49 114.3)
 		)
 		(stroke
 			(width 0)
@@ -6305,7 +6185,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 120.65) (xy 246.38 129.54)
+			(xy 246.38 115.57) (xy 246.38 124.46)
 		)
 		(stroke
 			(width 0)
@@ -6505,7 +6385,7 @@
 	)
 	(wire
 		(pts
-			(xy 234.95 115.57) (xy 237.49 115.57)
+			(xy 234.95 110.49) (xy 237.49 110.49)
 		)
 		(stroke
 			(width 0)
@@ -6555,7 +6435,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 115.57) (xy 238.76 115.57)
+			(xy 237.49 110.49) (xy 238.76 110.49)
 		)
 		(stroke
 			(width 0)
@@ -6575,7 +6455,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 129.54) (xy 246.38 132.08)
+			(xy 246.38 124.46) (xy 246.38 127)
 		)
 		(stroke
 			(width 0)
@@ -6635,7 +6515,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 129.54) (xy 237.49 129.54)
+			(xy 246.38 124.46) (xy 237.49 124.46)
 		)
 		(stroke
 			(width 0)
@@ -7235,7 +7115,7 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 115.57) (xy 227.33 115.57)
+			(xy 226.06 110.49) (xy 227.33 110.49)
 		)
 		(stroke
 			(width 0)
@@ -7254,7 +7134,7 @@
 		(uuid "080a7020-583c-42e5-812c-c0e8e349b60f")
 	)
 	(label "BUZZER_SW"
-		(at 237.49 119.38 180)
+		(at 237.49 114.3 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7407,7 +7287,7 @@
 	)
 	(global_label "BUZZER"
 		(shape input)
-		(at 226.06 115.57 180)
+		(at 226.06 110.49 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7416,7 +7296,7 @@
 		)
 		(uuid "3738c1a2-84e3-440d-8102-d81bef109eb6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 226.06 115.57 0)
+			(at 226.06 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8950,8 +8830,8 @@
 		)
 	)
 	(symbol
-		(lib_id "RUM001L02T2CL:RUM001L02T2CL")
-		(at 238.76 115.57 0)
+		(lib_id "Transistor_FET:Q_NMOS_GSD")
+		(at 243.84 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8962,7 +8842,7 @@
 		(fields_autoplaced yes)
 		(uuid "0ee3253a-6d67-4517-8046-e2b8d33e175c")
 		(property "Reference" "Q2"
-			(at 250.19 111.7599 0)
+			(at 250.19 109.2199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8973,7 +8853,7 @@
 			)
 		)
 		(property "Value" "RUM001L02T2CL"
-			(at 250.19 114.2999 0)
+			(at 250.19 111.7599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8984,7 +8864,7 @@
 			)
 		)
 		(property "Footprint" "RUM001L02T2CL:SOT723"
-			(at 250.19 214.3 0)
+			(at 248.92 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8992,11 +8872,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
 		(property "Datasheet" "https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/rum001l02t2cl-e.pdf"
-			(at 250.19 314.3 0)
+			(at 243.84 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9004,11 +8883,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Description" "1.2V Drive Nch MOSFET"
-			(at 238.76 115.57 0)
+		(property "Description" "N-MOSFET transistor, gate/source/drain"
+			(at 243.84 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9019,7 +8897,7 @@
 			)
 		)
 		(property "Mouser Part Number" "755-RUM001L02T2CL"
-			(at 250.19 614.3 0)
+			(at 255.27 609.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9031,7 +8909,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/ROHM-Semiconductor/RUM001L02T2CL?qs=QcFhgjUTvvq561FHtbVAHA%3D%3D"
-			(at 250.19 714.3 0)
+			(at 255.27 709.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9043,7 +8921,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "ROHM Semiconductor"
-			(at 250.19 814.3 0)
+			(at 255.27 809.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9055,7 +8933,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RUM001L02T2CL"
-			(at 250.19 914.3 0)
+			(at 255.27 909.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9067,7 +8945,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 238.76 115.57 0)
+			(at 243.84 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9078,7 +8956,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 238.76 115.57 0)
+			(at 243.84 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9588,8 +9466,8 @@
 		)
 	)
 	(symbol
-		(lib_id "SMT-1341-T-HT-2:SMT-1341-T-HT-2")
-		(at 248.92 99.06 0)
+		(lib_id "Device:Speaker")
+		(at 254 99.06 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9600,7 +9478,7 @@
 		(fields_autoplaced yes)
 		(uuid "16c706a0-51f7-4890-9849-7aa73a47338e")
 		(property "Reference" "LS1"
-			(at 260.35 99.0599 0)
+			(at 259.08 99.0599 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9611,7 +9489,7 @@
 			)
 		)
 		(property "Value" "SMT-1341-T-HT-2"
-			(at 260.35 101.5999 0)
+			(at 259.08 101.5999 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9622,7 +9500,7 @@
 			)
 		)
 		(property "Footprint" "SMT-1341-T-HT-2:SMT1341THT2"
-			(at 260.35 201.6 0)
+			(at 254 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9630,11 +9508,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
 		(property "Datasheet" "https://puiaudio.com/product/transducers/SMT-1341-T-HT-2"
-			(at 260.35 301.6 0)
+			(at 253.746 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9642,11 +9519,10 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 			)
 		)
-		(property "Description" "Buzzers Transducer, Externally Driven Piezo 5 V 3mA 4.1kHz 85dB Surface Mount Solder Pads"
-			(at 248.92 99.06 0)
+		(property "Description" "Speaker"
+			(at 254 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9657,7 +9533,7 @@
 			)
 		)
 		(property "Mouser Part Number" "665-SMT-1341-T-HT-2"
-			(at 260.35 601.6 0)
+			(at 265.43 601.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9669,7 +9545,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/PUI-Audio/SMT-1341-T-HT-2?qs=ZcfC38r4PotSwOts01XpJg%3D%3D"
-			(at 260.35 701.6 0)
+			(at 265.43 701.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9681,7 +9557,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "PUI Audio"
-			(at 260.35 801.6 0)
+			(at 265.43 801.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9693,7 +9569,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "SMT-1341-T-HT-2"
-			(at 260.35 901.6 0)
+			(at 265.43 901.6 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9705,7 +9581,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 248.92 99.06 0)
+			(at 254 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9716,7 +9592,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 248.92 99.06 0)
+			(at 254 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10174,7 +10050,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_JST:JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical"
+		(property "Footprint" "BM02B-ACHSS-GAN-ETF:JST_ACH_BM02B-ACHSS-GAN-ETF_1x02-1MP_P1.20mm_Vertical"
 			(at 146.05 172.72 0)
 			(hide yes)
 			(show_name no)
@@ -12058,7 +11934,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 231.14 115.57 90)
+		(at 231.14 110.49 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12069,7 +11945,7 @@
 		(fields_autoplaced yes)
 		(uuid "6311a804-2f7a-4611-ae42-a6eb5ea60b06")
 		(property "Reference" "R31"
-			(at 231.14 109.22 90)
+			(at 231.14 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12079,7 +11955,7 @@
 			)
 		)
 		(property "Value" "50"
-			(at 231.14 111.76 90)
+			(at 231.14 106.68 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12089,7 +11965,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 231.394 114.554 90)
+			(at 231.394 109.474 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12100,7 +11976,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.co.uk/datasheet/3/508/1/PYU_RC_GROUP_51_ROHS_L.pdf"
-			(at 231.14 115.57 0)
+			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12111,7 +11987,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 231.14 115.57 0)
+			(at 231.14 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12122,7 +11998,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "YAGEO"
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12133,7 +12009,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RC0402JR-0750RL"
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12144,7 +12020,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RC0402JR-0750RL"
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12155,7 +12031,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RC0402JR-0750RL?qs=tggtontpCXPi%2FU1qX4oZ0g%3D%3D"
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12166,7 +12042,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12177,7 +12053,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 231.14 115.57 90)
+			(at 231.14 110.49 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15160,7 +15036,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 237.49 123.19 180)
+		(at 237.49 118.11 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15171,7 +15047,7 @@
 		(fields_autoplaced yes)
 		(uuid "c6b9e3f5-bbd7-4c32-a2d3-b1d4888b33bb")
 		(property "Reference" "R32"
-			(at 240.03 121.9199 0)
+			(at 240.03 116.8399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15182,7 +15058,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 240.03 124.4599 0)
+			(at 240.03 119.3799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15193,7 +15069,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 236.474 122.936 90)
+			(at 236.474 117.856 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15204,7 +15080,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.mouser.co.uk/datasheet/3/72/1/PYU_RT_1_TO_0_01_ROHS_L.pdf"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15215,7 +15091,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15226,7 +15102,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "YAGEO"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15237,7 +15113,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "RT0603BRD071ML"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15248,7 +15124,7 @@
 			)
 		)
 		(property "Mouser Part Number" "603-RT0603BRD071ML"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15259,7 +15135,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/YAGEO/RT0603BRD071ML?qs=sGAEpiMZZMtlubZbdhIBIKm0gsRX2fVkpty8nV5FZvc%3D"
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15270,7 +15146,7 @@
 			)
 		)
 		(property "KLC_S3.3" ""
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15281,7 +15157,7 @@
 			)
 		)
 		(property "KLC_S4.1" ""
-			(at 237.49 123.19 0)
+			(at 237.49 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17179,7 +17055,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 246.38 132.08 0)
+		(at 246.38 127 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17190,7 +17066,7 @@
 		(fields_autoplaced yes)
 		(uuid "f7c6c421-d767-47b4-86ee-34077b93719c")
 		(property "Reference" "#PWR0134"
-			(at 246.38 138.43 0)
+			(at 246.38 133.35 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17201,7 +17077,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 246.38 137.16 0)
+			(at 246.38 132.08 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17212,7 +17088,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 246.38 132.08 0)
+			(at 246.38 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17223,7 +17099,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 246.38 132.08 0)
+			(at 246.38 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17234,7 +17110,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 246.38 132.08 0)
+			(at 246.38 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
